@@ -30,7 +30,6 @@ class NavHead extends React.PureComponent{
         <Link to='/faq/'>FAQs</Link>
         <Link to='/jobs/'>Jobs</Link>
         <a href='http://www.faccha.com'>Shop</a>
-        <Link to='/smart-card/'>Smart-Card</Link>
         <Link to='/blog/'>The RC Blog</Link>
         <Link to='/videos/'>Videos</Link>
         <Link to='#'><img className="logo-bar" src='/redcarpetcom/googleplay.svg' style={{width:'80px'}}/></Link>
