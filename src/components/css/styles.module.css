@@ -1,0 +1,320 @@
+.arrow {
+  padding: 5px 20px;
+  border: 1px solid #419eda;
+}
+
+/* Lists */
+.list {
+  display: flex;
+  list-style: none;
+  margin: 3rem 0;
+}
+
+.list-wrap {
+  flex-wrap: wrap;
+}
+
+.list li {
+  margin-right: 1rem;
+}
+
+.list-reset {
+  list-style: none;
+  margin-left: 0;
+}
+
+/* Post */
+.post-meta {
+  color: #545454;
+  display: flex;
+  font-size: 0.8rem;
+}
+
+.post-time {
+  padding-left: 0;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.post-tags {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0 0.8rem;
+}
+
+.post-tag {
+  color: #9eabb3;
+  margin-right: 0.6rem;
+}
+
+.post-tag a {
+  color: #545454;
+}
+
+/* Home page / Landing page */
+.highlight {
+  text-align: right;
+}
+
+.highlight h1 {
+  border-bottom: 0;
+  margin-bottom: 0;
+}
+
+.handle {
+  color: #545454;
+  font-size: 0.8rem;
+  font-style: italic;
+}
+
+.intro {
+  margin-top: 1rem;
+}
+.nextBlog{
+  margin-bottom: 3%;
+}
+/* THis is the the css of postLIst and post page */
+
+.section-posts {
+  padding: 50px 0;
+}
+section {
+  text-align: center;
+}
+.blogContainer {
+  width: 100%;
+  height: 100%;
+  background-size: 100% 100%;
+  position: relative;
+  cursor: pointer;
+  border: 1px solid rgba(80,80,80,0.8);
+}
+html,body{
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+  font-family: 'Montserrat', sans-serif;
+}
+h1,h2,h3,h4
+{
+  font-family: 'Montserrat', sans-serif;
+}
+h5,h6
+{
+  font-family: 'Montserrat', sans-serif;
+}
+
+body{
+  color: #666666;
+}
+h1
+{
+  color: #27B59C;
+}
+#mainBanner
+{
+  margin: 20px 0;
+
+}
+#mainBanner img
+{
+  height:300px;
+  width:auto;
+  border:1px solid black;
+  border-radius: 5px;
+}
+#mainBanner div
+{
+  display:inline-block;
+    margin: 10px;
+    vertical-align: middle;
+}
+#mainBanner .firstBlogText
+{
+  width: 40%;
+
+}
+.firstBlogText h3 a
+{
+  color: #27b59c;
+}
+.post-list
+{
+  display: inline-block;
+    width: 360px;
+    height: 212px;
+    margin: 15px 20px;
+}
+.blogContainer
+{
+   width: 100%;
+   height: 100%;
+   background-size: 100% 100%;
+   position: relative;
+   cursor:pointer;
+   border: 1px solid rgba(80,80,80,0.8);
+
+}
+
+.blogDetails
+{
+    width: 100%;
+
+    height: 100px;
+    background-color: rgba(0,0,0,0.9);
+    color: white;
+    position: absolute;
+    bottom: 0px;
+}
+
+.blogDetails h3
+{
+  font-size: 20px;
+  margin:15px 0px;
+  color: white;
+}
+.blogDetails a
+{
+  font-size: 16px;
+  margin:0px;
+  color: white;
+}
+
+ul.pagination
+{
+
+}
+
+ul.pagination li
+{
+  margin:5px;
+    display: inline-block;
+
+}
+
+ul.pagination li a{
+  border-radius: 50%;
+  border: 1px solid #27B59C;
+  color:#27B59C;
+  font-size: 16px;
+
+}
+
+ul.pagination li a:hover{
+  border: none;
+  border-radius: 50%;
+  border: 1px solid #27B59C;
+  background-color:#27B59C;
+  color:white;
+  font-size: 16px;
+
+}
+
+ul.pagination .active a
+{
+  background-color: #27B59C;
+}
+
+.pagination>li:last-child>a, .pagination>li:last-child>span,.pagination>li:first-child>a, .pagination>li:first-child>span
+{
+  border-radius: 50%;
+}
+
+@media (max-width: 768px)
+{
+  section#section-posts li
+  {
+    display: block;
+
+      margin: 30px auto;
+
+  }
+
+}
+@media (max-width: 414px)
+{
+  ul.pagination li {
+    margin: 2px;
+    display: inline-block;
+}
+#mainBanner
+{
+  display:none;
+}
+}
+.arrow {
+  padding: 5px 20px;
+  border: 1px solid #419eda;
+}
+
+/* Lists */
+.list {
+  display: flex;
+  list-style: none;
+  margin: 3rem 0;
+}
+
+.list-wrap {
+  flex-wrap: wrap;
+}
+
+.list li {
+  margin-right: 1rem;
+}
+
+.list-reset {
+  list-style: none;
+  margin-left: 0;
+}
+
+/* Post */
+.post-meta {
+  color: #545454;
+  display: flex;
+  font-size: 0.8rem;
+}
+
+.post-time {
+  padding-left: 0;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.post-tags {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0 0.8rem;
+}
+
+.post-tag {
+  color: #9eabb3;
+  margin-right: 0.6rem;
+}
+
+.post-tag a {
+  color: #545454;
+}
+
+/* Home page / Landing page */
+.highlight {
+  text-align: right;
+}
+
+.highlight h1 {
+  border-bottom: 0;
+  margin-bottom: 0;
+}
+
+.handle {
+  color: #545454;
+  font-size: 0.8rem;
+  font-style: italic;
+}
+
+.intro {
+  margin-top: 1rem;
+}
+

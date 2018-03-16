@@ -1,0 +1,97 @@
+name: mainflexi
+imageintro: card.jpg
+headlineintro: INTRODUCING THE STUDENT SMART CARD
+headingintro1: Experience financial freedom like never before.
+headingintro2:  Get instant credit. No bank account needed!
+headingintro3:   Only for college students!
+textintro: Smart Card
+moretextintro: THE MOST FLEXIBLE WAY TO PAY
+offerintro:
+priceintro: ₹750*
+cardfeeintro: "*Card Issuance Fee"
+payintro: Pay Now
+vouchersintro: Get vouchers worth ₹5k for free with your Smart card!
+featuresheadline: REDCARPET SMART CARD
+featuressubheadline: FLEXIBLE! EASY! AWESOME!
+featuerestext: Money or no money - buying anything or paying anywhere is now a matter of seconds! Swipe your RedCarpet Smart Card, to pay offline or enter the card details to transact online. Here are the card features in detail.
+featurespaymentimage: payment-method.png
+featuressubheading: Use Online
+featurestext: Ordering food or booking movie tickets from an app or website? Just enter the details and your OTP. Safe. Easy. Secure!
+featuresimagetwo: online-store.png
+featuresubtexttwo: Use offline
+featurestexttwo: Treating yourself to some retail therapy? Just swipe the Smart Card at any outlet n India with POS.
+featuresimagethree: credit-card.png
+featuresitemheader: Simple as your debit card
+featuresitemtext: No rocket science here. Your Smart Card works just like your debit card.
+featuresimagefour: card.jpg
+featuresimagefive: lotus-position.png
+featurestextsix: Buy Now; Pay Later
+featuressubtextsix: Convert your purchases into easy flexible EMIs of 3/6/9/12 months on RedCarpet app.
+featuresimagesix: browser.png
+featurestexteight: Fully controlled & Automated
+featuresdescriptioneight: Control & see your transactions real time on RedCarpet app.
+featuresimageeight: calendar.png
+featuresheadlinenine: Credit Limit
+featurestextnine: Your account starts with a credit limit of ₹10,000. You can enjoy up to ₹60,000 credit limit per month.
+featuresimagenine: idea.png
+featuresheadlineten: Only One Time Fee
+featurestextten: Unlike your bank debit card, we don't charge you yearly. Just one-time ₹490 charge and use for life time. No hidden charges!
+nointeresthead: 30 DAYS INTEREST FREE CREDIT
+nointerest: No interest applicable if you pay us back within 30 days
+benefitsheadline: BENEFITS
+benefitstext: Your Smart Card comes with a host of benefits
+benefitsimage: credit.png
+creditheadline: Credit Limit
+credittext: Your account starts with credit limit of Rs. 10000
+creditimage: cal.png
+interestimage: interstrate.png
+interestheader: Lowest Interest Rates
+interesttext: 2% Simple Interest on 3/6/9/12 Month EMI plan
+dealsimage: deal.png
+dealsheadline: Deals & Discounts
+dealstext: Avail exciting offers on your Smart Card
+walletimage: wallet.png
+walletheader: Upto ₹60k credit limit available
+wallettext: Shop upto ₹60k with your Smart card
+oneimage: one.png
+oneheadline: No annual fee
+onetext: Just pay a one time card issuance fee.
+moreimage: more.png
+moreheadline: Increase Your Credit Limit
+moretext: Your credit limit increases each time you make a repayment
+flexibleheadline: <span class="big">F</span>lexible
+flexibleheader: Use online/offline.
+flexiblesubheader: <span class="big">L</span>oads of Money!
+flexibletext: Interest free credit for 30 days
+emiheadline: <span class="big">E</span>MI
+emitext: Convert every purchase to an EMI
+secureheadline: <span class="big">X</span>tra Secure
+securetext: More secure than your Debit-Card
+instantpayment: <span class="big">I</span>nstant Payment
+istanttext: In seconds
+instantimage: orange_card.png
+faqheadline: Most Frequently Asked Questions
+existinguserssayone: What Existing
+existinguserssaytwo: RedCarpet
+existinguserssaythree: Users Say
+moretext1: CHECK OUT OUR DETAILED TERMS & CONDITIONS
+steps:
+  heading: "Steps to be followed"
+  steplist:
+    - image: form.JPG
+      caption: Fill this payment form
+    - image: otp.JPG
+      caption: Provide the OTP
+    - image: paymentss.jpg
+      caption: Open the link and it will look like this
+    - image: payment_done.png
+      caption: Send a screenshot on the chat in the app
+  cardDispatchSteps:
+    - image: dispatch.jpg
+      caption: Card will be dispatched to your **current address**
+    - image: card-recieved.jpg
+      caption: You will recieve the card via **post**
+    - image: card.jpg
+      caption: You have to activate the card via the **Redcarpetup app chat** or can call on **011 3050 6200**
+    - image: payment-method.png
+      caption: "Congrats, now you can use the card :)"

@@ -1,0 +1,52 @@
+/* This is legal css  */
+html,body{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    font-family: 'Montserrat', sans-serif;
+  }
+  h1,h2,h3,h4
+  {
+    font-family: 'Montserrat', sans-serif;
+  }
+  h5,h6
+  {
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  div#toc strong{
+    color: #27B59C;
+  }
+  
+  ol{
+    padding: 0;
+  }
+  
+  h4
+  {
+    color: #27b59c;
+    margin-top: 20px;
+    margin-bottom: 0px;
+  }
+  
+  div.textContainer div
+  {
+      margin: 20px 0px;
+      font-size: 16px;
+  }
+  section.intro{
+    text-align: left;
+    padding-top: 5%;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-bottom: 3%;
+    color: #666666;
+}
+div.textContainer {
+    margin: 20px 0px;
+    font-size: 16px;
+}
+
+
+

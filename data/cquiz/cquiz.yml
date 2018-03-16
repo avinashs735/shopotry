@@ -1,0 +1,113 @@
+pageTitle: Credit Quiz | RedCarpet
+headerSubHeading: Know Your Credit Score!
+
+quiz:
+  - question: Q1.How many apps do you have in your Smartphone for daily services like shopping, repair services, food ordering, recharges, movies, cabs, health?? Basically are you a typical lazy Indian student??
+    options:
+      - text: Many Many! (Like at least one for each service)
+        id: test1
+      - text: Only the basic ones (4-5)
+        id: test2
+      - text: I install only when it's needed
+        id: test3
+
+  - question: Q2. How many Personal debit cards you use?
+    options:
+      - text: More than 2
+        id: test2.1
+      - text: I have my own debit card
+        id: test2.2
+      - text: I have my family's debit card
+        id: test2.3
+
+  - question: Q3. How independent you're financially?
+    options:
+      - text: "My motto- Earn While Learn. #Jugaadu"
+        id: test3.1
+      - text: I get fixed pocket money from home.
+        id: test3.2
+      - text: I spend as required after informing my parents.
+        id: test3.3
+
+  - question: Q4. Do you have a postpaid or prepaid sim connection?
+    options:
+      - text: Postpaid
+        id: test4.1
+      - text: Prepaid
+        id: test4.2
+
+  - question: Q5. How many times in a month do you hangout with friends for movies, dining out, parties etc?
+    options:
+      - text: 2-3 times in a week
+        id: test5.1
+      - text: 2-3 times in a month
+        id: test5.2
+      - text: Occasionaly
+        id: test5.3
+
+  - question: Q6. How often do you visit your parent's ?
+    options:
+      - text: 2-6 Months
+        id: test6.1
+      - text: Every Weekend
+        id: test6.2
+      - text: I stay with parents
+        id: test6.3
+
+  - question: Q7 How do you get money from your parents?
+    options:
+      - text: Online Banking
+        id: test7.1
+      - text: Cash Deposit
+        id: test7.2
+
+  - question: Q8. What is the maximum udhar you have taken from your friends at a time?
+    options:
+      - text: More than 5k
+        id: test8.1
+      - text: Less than 5k
+        id: test8.2
+      - text: I don't take Udhar
+        id: test8.3
+
+  - question: Q9. Let's say your friends plan for a awesome fun trip to Himalaya and your gf/bf is also coming ;) So can you go for it from your savings so far without telling your parents??
+    options:
+      - text: Yes I have saved/earned money for this day
+        id: test9.1
+      - text: Will have to take some udhaar
+        id: test9.2
+      - text: No I can't go!
+        id: test9.3
+
+  - question: Q10. How do you use your debit card?
+    options:
+      - text: Only for withdrawing cash
+        id: test10.1
+      - text: For online payments
+        id: test10.2
+      - text: Swiping in offline shops
+        id: test10.3
+      - text: Wait. I just told you I don't have a debit card
+        id: test10.4
+
+  - question: Q11. You have been trying hard to beat your friend's score in candy crush but do you know what does your credit score indicates??
+    options:
+      - text: How much money you'd be making after College
+        id: test11.1
+      - text: How much udhaar/credit you can get
+        id: test11.2
+      - text: Your financial knowledge
+        id: test11.3
+
+  - question: Q12. Which of these help a student build a credit history and improve your credit score?
+    options:
+      - text: Your debit card and net banking transactions
+        id: test12.1
+      - text: Your timely bill payment through Cash
+        id: test12.2
+      - text: RedCarpet Flexi Credit Card and APP
+        id: test12.3
+detailForm:
+     formHeading: Know Your Score
+     field1: College Name
+     field2: "Mobile No."

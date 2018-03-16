@@ -1,0 +1,98 @@
+name: redcarpet-student
+introvideo: "student/video/r.mp4?autoplay=false"
+menutandc: T&C
+menucontact: Contact
+introheadline: Get instant credit
+introtext: RedCarpet gives you instant credit upto ₹60k*. <br>Currently only available in Delhi NCR.<br>*T&C Apply
+servicesiconfirst: 'icon2-cart'
+servicesheadlinefirst: Upto ₹60k Credit Limit
+servicestextfirst: Your credit limit increases each time you repay.
+servicesiconsecond: 'icon2-history'
+servicesheadlinesecond: EMI
+servicestextsecond: Convert your purchases into EMIs at the lowest interest rate of 2% on 3/6 Month plan.
+servicesiconthird: 'icon2-license'
+servicesheadlinethird: Credit Card
+servicestextthird: RedCarpet offers you a credit card which can be used at both online and offline merchants.
+productsheadline: What RedCarpet product suits you?
+productstext: 'RedCarpet gives you many ways to shop - Shop via App, Flash Card or Smart Card!'
+pricingtitlefirst: App
+pricingsentencefirst: Order via App only
+pricingperiodfirst: Free to Use
+pricinglistfirst:
+      - 60k Usage Limit
+      - Valid for Online transactions only
+      - Valid for a duration of 3 Months only
+      - Order via App only
+      - Build your Credit Score
+      - Pay us back by cash or online wallets
+      - 30 Days Interest Free Credit
+      - EMI Conversion Available
+pricingcriteriaheadlinefirst: Eligibility Criteria
+pricingcriteriatextfirst: The student should have minimum college duration of 6 months left for card issuance.
+pricingbuttonfirst: <p align="center" style="margin:0 0 5px">	<a href="https://play.google.com/store/apps/details?id=com.redcarpetup.rewardpay&hl=en"><img class="playb" src="/student/images/play.png"></a></p>
+pricingtitlesecond: Smart Card
+pricingsentencesecond: Order anywhere!
+pricingperiodsecond: ₹490 only
+pricinglistsecond:
+      - ₹60k Usage Limit
+      - Valid for both Online and Offline transactions
+      - Valid for your college tenure
+      - Order on your Own
+      - Build your Credit Score
+      - Pay us back by cash or online wallets
+      - 30 Days Interest Free Credit
+      - EMI Conversion Available
+pricingcriteriaheadlinesecond: Eligibility Criteria
+pricingcriteriatextsecond: The student should have minimum college duration of 6 months left for card issuance.
+pricingbuttonsecond:  <a href="/credit/flexi"><button class="btn btn-abc">Order Now</button></a>
+pricingtitlethird: Flash Card
+pricingsentencethird: Order at online merchants
+pricingperiodthird: ₹190 only
+pricinglistthird:
+      - 60k Usage Limit
+      - Valid for Online transactions only
+      - Valid for your college tenure
+      - Order on your Own
+      - Build your Credit Score
+      - Pay us back by cash or online wallets
+      - 30 Days Interest Free Credit
+      - EMI Conversion Available
+pricingcriteriaheadlinethird: Eligibility Criteria
+pricingcriteriatextthird: <p style="color:#666;">The student should have minimum college duration of 6 months left for card issuance.</p>
+pricingbuttonthird: <button class="btn btn-abc">Coming Soon</button>
+infoheadline: How to use?
+infoimageone: student/images/steps/download.png
+infosteponeheadline: 1. Download our App
+infosteponetext: Our app is currently available on <a href="https://play.google.com/store/apps/details?id=com.redcarpetup.rewardpay">Google Play Store.</a>
+infoimagetwo: student/images/steps/upload.png
+infosteptwoheadline: 2. Upload your Documents
+infosteptwotext: Upload your govt. ID and college ID on our app to get started
+infoimagethree: student/images/steps/choice.png
+infostepthreeheadline: 3. App/Smart/Flash
+infostepthreetext: 'Choose what product suits your needs:<br><a href="/student/#!" title="App" onClick="showMask1();">App</a> |<a href="/student/#!" title="Flexi Card" onClick="showMask2();">Smart Card</a> |<a href="/student/#!" title="Flash Card" onClick="showMask3();">Flash Card</a>'
+apphiddenimageone: student/images/apppp.png
+apphiddenheadlineone: App
+apphiddentextone: <p style="color:#666;">Handover physical copy of your documents to your college campus ambassador.</p> <p>To speed up the e-KYC process, ensure your mobile number is linked with your Aadhar card.</p> <p style="color:#666;"> And.. that's it! Enjoy shopping via RedCarpet</p>
+apphiddenimagetwo: student/images/fcard.jpg
+apphiddenheadlinetwo: Smart Card
+apphiddentexttwo: <p style="color:#666;">Handover physical copy of your documents to your college campus ambassador. Pay us via cash or online methods. You will receive your card via the ambassador.</p> <p>To speed up the e-KYC process, ensure your mobile number is linked with your Aadhar card.</p> <p style="color:#666;">And.. that's it! Enjoy shopping via RedCarpet</p>
+apphiddenimagethree: student/images/bluec.png
+apphiddenheadlinethree: Flash Card (Coming Soon)
+apphiddentextthree: <p style="color:#666;">Handover physical copy of your documents to your college campus ambassador. Pay us via cash or online methods.</p> <p style="color:#666;">To speed up the e-KYC process, ensure your mobile number is linked with your Aadhar card.</p> <p style="color:#666;"> And.. that's it! Enjoy shopping via RedCarpet</p>
+featuredinheadline: Featured in
+featuredinlist:
+  - href: https://www.ycombinator.com/companies/
+    image: images/feat/ycombinator-logo-fb889e2e.png
+    text: Y Combinator
+  - href: https://developers.google.com/startups/accelerator/asia/
+    image: images/feat/googlelaunchpad_logo.png
+    text: Google Launchpad
+  - href: https://techcrunch.com/2015/08/19/here-are-the-52-startups-that-launched-at-y-combinator-summer-2015-demo-day-2/
+    image: images/feat/tclogo.svg
+    text: TechCrunch
+  - href: http://www.bloombergquint.com/technology/2016/11/26/fintech-startups-led-the-funding-race-this-week
+    image: images/feat/bloombergquint.png
+    text: Bloomberg | Quint
+  - href: http://www.indianweb2.com/2016/12/31/10-top-best-gurgaon-startups-to-2016/
+    image: images/feat/iw2.png
+    text: IndianWeb2

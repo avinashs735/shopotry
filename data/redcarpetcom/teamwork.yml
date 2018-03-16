@@ -1,0 +1,36 @@
+
+name: teamwork
+dummy:
+  heading: ONE GOAL 
+  text: |
+        Three awesome prizes to choose from. 
+
+teamwork:  
+  wraptext: To wrap up November and step into the last month of 2017, we bring this special contest for our Campus Leaders, to kick off the festivities. 
+
+  wraptexts: And to encourage team spirit, we have made this into the group task.
+
+whattodo:
+  question: What to do?
+
+  answer: All of you will be divided into teams, the information about which will be sent to each one of you separately. Once you have an assigned team, your goal is to sell 20 Smart Cards before 1st December. While you will earn your regular incentives per sale, the team that sells 20 cards the fastest, wins one of the three prizes! You get to pick your own prize. How cool is that?
+
+prize:
+  heading: THE PRIZES
+
+prizemenu:
+  prizeone: TAKE THE TRIP!
+  firstdetails: The winning team will be taken for a trek. Details on this will be divulged later upon completion of the task.  
+
+  prizetwo: WINTER INTERNSHIP
+  secondetails: If you do not want to attend the Founder's dinner, you can opt for an internship in December, which will be...
+  secondetailsback: If you do not want to attend the Founder's dinner, you can opt for an internship in December, which will be separate from your departmental tasks. This means that when you rejoin the next month you will be paid your regular stipend plus the departmental rewards that you will earn during this exclusive winter internship. 
+
+  prizethree: ATTEND AN EXCLUSIVE REDCARPET EVENT
+  thirdetails: Be a part of this one-of-a-kind opportunity, where the Campus Leaders will be  dinner with industry...
+  thirdetailsback: Be a part of this one-of-a-kind opportunity, where the Campus Leaders will be invited to a dinner with industry mentors like founders, investors of Zomato, Nearbuy, RedCarpet and much more. All in all, it'll be an evening filled with glory, great conversations, and royal treatment! 
+
+contact:
+   heading: Get in touch
+   email: Write to us at  saif.aslam@redcarpetup.com & rohit.madan@redcarpetup.com
+   phoneno: Phone - +91-7838836421 & +91-8076314743 

@@ -1,0 +1,11 @@
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css");
+
+
+div.intro.blues-section.clearfix{
+    background: #01adff;
+    display: flex;
+    justify-content: left;
+}
+section#banner{
+    background: black;
+}

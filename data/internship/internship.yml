@@ -1,0 +1,29 @@
+name: campus_ambassador
+bannerHeading: If you are here, you are the chosen one!!
+bannerSubHeading: Welcome to the world of opportunities! You are selected for the further stages to be a part of the RedCarpet Summer Internship Programme!
+bannerButton: Take the level 1 quiz now!
+firstheadline: "What is RedCarpet?"
+text: "RedCarpet Tech is a Silicon Valley (US) based fintech start-up funded and backed by Google & Y-Combinator.  RedCarpet is building artificial intelligence based credit underwriting model based on social and mobile data. This model will help those people who are not able to get finance from traditional banks and NBFC. <br/> Redcarpet's vision is to extend credit to next billion people.</p><p>It has been running its Summer Internship Programme from past 2 years and currently we have 52 happy interns! So, we welcome you to the world of opportunities! Don’t waste your 2 months and earn some bucks, while you learn a lot of skills. <br> <b> We have selected you from tremendous amount of applications, so don’t let this opportunity go in vain. </b>"
+process: Process
+
+processContent:
+  - heading: Level 1
+    text: |
+          Fill a 5 Minutes quiz.<br>
+          You can fill this quiz during 5 May - 10 May.<br>
+          [Click here](https://goo.gl/forms/HygHsXuAUbC5zHrN2) to take the quiz!<br>
+          **Purpose**<br>
+          To judge your mental caliber.
+  - heading: Level 2
+    text: |
+          A 2 Minutes activity.<br>
+          You can do this during 15 May - 20 May.<br>
+          **Purpose**<br>
+          To judge your confidence.
+
+  - heading: Level 3
+    text: |
+          Face to Face interaction<br>
+          **Well! After your exams :)<br>
+          Purpose**<br>
+          To judge your mental caliber.

@@ -1,0 +1,33 @@
+name: Service
+source:
+  - image: "ic_selfservice.png"
+    headline: Self Service
+    buttonurl:
+    buttontext:
+    serviceslist: yes
+    list:
+      - "See your Application Status."
+      - "Check your Credit Score."
+      - "Report any issue."
+      - "Grow with us."
+
+  - image: ic_helpinformation.png
+    headline: Helpful Information
+    buttonurl:
+    buttontext:
+    serviceslist: yes
+    list:
+      - "<a href='/faq/'>FAQs</a> provide quick answers to your most common questions."
+      - "Help Center puts comprehensive self-service and credit education at your fingertips."
+      - "Why your Credit Score and Report matters not only to you, but also to lenders."
+      - "Learn about the Credit Approval Process to understand how banks evaluate your loan application."
+      - "Learn more about information on your:<br>Credit Report</a><br> RedCarpet Account<br>"
+
+  - image: ic_otherservices.png
+    headline: Other Services
+    buttonurl: /credit/flexi
+    buttontext: ORDER NOW
+    serviceslist:
+    list:
+      - "<img alt='' src='/assets/images/TU/ic_ccr1.png' /> Understand your credit worthiness before applying for a loan."
+      - "<img alt='' src='/assets/images/TU/ic_ccr2.png' /> Build your credit score with RedCarpet credit app/card"

@@ -1,0 +1,91 @@
+heading: INTRODUCING THE STUDENT SMART CARD
+intro:
+  text: Experience financial freedom like never before.
+        Get instant credit. No bank account needed!
+        Only for college students!
+  moretextintro: THE STUDENT SMART CARD<br/>Like a credit card, only better!
+oldprice:  Get yours at ₹750* only/-
+newprice: ₹250* (Offer Valid till 1st Dec 2017 )
+features:
+  heading: FLEXIBLE! EASY! AWESOME!
+  text: With the the Student Smart Card you have control over your funds like never before. In a few simple steps, get instant credit to make transactions, both online and offline. Here are all the benefits of the Smart Card. 
+  list:
+    - image: freedom.svg
+      heading: FINANCIAL FREEDOM
+      text: No need to save for something you really want to buy! And you don't have to depend on anyone else for it either.<br/>What you want to buy is your business and so is managing your finances.<br/>Get instant credit with RedCarpet. No bank account needed! Only for college students!<br/>Experience financial freedom like never before. :) 
+    - image: paylater.svg
+      heading: BUY NOW, PAY LATER
+      text: No need to block your funds! You will be billed monthly for all the transactions that you do with the RedCarpet Smart Card.  You get an interest free period of upto 45 days from your initial transaction date!
+    - image: repayment.svg
+      heading: FLEXIBLE REPAYMENTS
+      text: You can choose to pay the entire bill in one month, or the just the minimum amount required. Repayment in the first 30 days in interest-free. Pay interest only for the months you carry an outstanding balance. Close your balance anytime!
+    - image: payanywhere.svg
+      heading: USE EVERYWHERE
+      text: Ordering food or booking movie tickets from an app or website? Just enter the details and your OTP. Safe. Easy. Secure!<br/>Treating yourself to some retail therapy? Just swipe the Smart Card at any outlet in India.
+benefits:
+  heading: ADDITIONAL BENEFITS
+  subHeading: Your Smart Card comes with more added benefits
+  list:
+    - image: deal.png
+      heading: DEALS & DISCOUNTS
+      text: Avail exciting offers on your Smart Card.<br/>Explore our deals [here](https://www.redcarpetup.com/credit/deals/)
+    - image: more.png
+      heading: BUILD YOUR CREDIT SCORE
+      text: You can start building your [CIBIL SCORE](https://www.redcarpetup.com/2017/09/12/why-credit-card-better-than-debit-card/) right now. Each time you make a timely repayment you build up your credit score, which in the long term has many benefits like a higher loan and credit card approval rate, higher credit limit and much more. 
+faqs:
+  heading: Most Frequently Asked Questions
+  list:
+    - question: What is RedCarpet?
+      answer: We’re a Google & YC funded fintech company empowering Indian students financially. We provide interest free 1k to 60k loans for any thing that the student wishes for, be it paying for an online course or a coaching centre to enjoying a popcorn tub at cinemas and travelling to Himalayas!!
+      headingId: headingOne
+      collapseId: collapseOne
+
+    - question: Why should I use RedCarpet?
+      answer: Whatever your needs or luxuries are, use Creditpay Card to pay online & offline. And that too with 30 days Interest free money!! Creditpay Card can be used to pay for purchasing merchandise online or swipe it in any food chain outlet to complete your transaction.
+      headingId: headingTwo
+      collapseId: collapseTwo
+
+    - question: How do I apply?
+      answer: All you have to be is a College Student.Just click on apply now, fill in your credentials & our executive will contact you within 24 hours where any other queries will be cleared. We pre-load Creditpay with credit of ₹2000. Just ask if you need more! Our executive will visit you at your place for physical verification and hand over the Creditpay Card.
+      headingId: headingThree
+      collapseId: collpaseThree
+
+    - question: What is physical verification?
+      answer: As per the guidelines issued by Government of India, before issuing a credit card, a physical verification is required to check the authenticity of the borrower. Our executive will verify your student ID, your age proof and address proof.
+      headingId: headingFour
+      collapseId: collpaseFour
+
+    - question: Flexibility of payments in EMIs?
+      answer: You can pay your EMIs on 3/6/9/12 months basis. Choose the plan & EMI that suits best to you & your budget. Pay through net banking, e-wallets, PayU, debit cards or schedule a cash pickup at your location. You can anytime convert your 6 EMIs Duration into 9 or 12 months EMIs to reduce the EMI amount.
+      headingId: headingFive
+      collapseId: collapseFive
+
+    - question: How does Smart Card work?
+      answer: Unlike market rate of interest, we neither charge hefty 3.5℅ monthly interest nor compound it monthly. We like to keep it simple- Just 2℅ monthly simple intrest. If the transaction amount is paid within 45 days , then the amount you pay is absolutely interest free, or else you can convert your payment into flexible EMI’s on which 2% interest will be applied.
+      headingId: headingSix
+      collapseId: collapseSix
+
+    - question: What if I default(Don't pay you back)?
+      answer: Redcarpetup uploads the CIBIL score of every user. If the user pays their EMI on time their CIBIL score will improve. CIBIL score determines the credit worthiness of borrower. Banks consider CIBIL score before giving away any loan, also, in many foreign countries, CIBIL score is widely used to check the credibility of a user.
+      headingId: headingSeven
+      collapseId: collapseSeven
+
+steps:
+  heading: Steps to get your own Smart Card
+  list:
+    - text: Fill the form.
+      image: web-page-1.png
+    - text: Provide the OTP
+      image: web-page-2.png
+    - text: Open the link sent to you
+      image: web-page-3.png
+    - text: Send screen-shot of 'payment successful' message on chat within the app
+      image: web-page-4.png
+    - text: Card will be dispatched to your current address
+      image: web-page-5.png
+    - text: You will receive the card via post
+      image: web-page-6.png
+    - text: Activate the card via chat on the RedCarpet app or call 011-30506200
+      image: web-page-7.png
+    - text: Congrats! You are all set to use your card now!
+      image: web-page-8.png

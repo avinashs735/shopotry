@@ -1,0 +1,105 @@
+  name: referral
+  "A96ff126f": <a href="/credit/campus-ambassador">Careers</a>
+  "A44097a8f": <a href="/credit/creditpay-card">Cards</a>
+  "Aef2e8df4": <a href="https://goo.gl/qwgz5z" style="color:white"><img src="/referral/img/play.png" class="play"></a>
+  "A2b049638": <a href="https://twitter.com/RedCarpetUp" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
+  "A7669e5fe": <a href="https://www.facebook.com/redcarpetup" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+  #"Abc197043": <a href="/about/">About Us</a>
+  #"Aaee07457": <a href="/location/">Contact Us</a>
+  "A121c946a": <a href="#page-top"></a>
+  #"A91da2330": "<b>Giving treats to your friends? </b> <br> Your perfect <br>Cashless Pizza-Beer Party!!"
+  #"A57ff5d81": "<b>Going HOME!!</b> <br> Book your Flight or train tickets"
+  "Ac5d8e982": <span class="sr-only">Toggle navigation</span> <i class="fa fa-bars"></i>
+  "A8f7f4c1c": "About"
+  "A9639e32c": "Apply"
+  "A8dfb117f": "Around the Web"
+  #"Ad8156ae7": "Book <b>Concert tickets</b> <br> for your favorite Artists"
+  #"A28ed8648": "Dying for your Dream Gadgets like <br> <b>Mobiles/Speakers/Appliances</b>"
+  #"Ac2694e57": "Get upto ₹1000 for a purchase made by your friend using RedCarpet"
+  #"A207f16d0": "Have to pay <b>College Mess fee</b> <br> Just tell us and we’ll pay for you"
+  #"A9c89af88": "Help your friend buy their dream product"
+  "A2b24559e": Live your Dreams with Redcarpet's <i>"Khushiyon ke Credits"</i>
+  "Ace5bf551": "Location"
+  "A7c0ac50e": "redcarpet"
+  "A7f5e060a": "RedCarpet | Refer & Earn"
+  "Ac55003a2": "REDCARPET- INDIA’s FIRST Student Credit Card Ahoy to a new India, a better India. Ever wondered if a selfie could get you credit for your online orders? We do! Redcarpet pre-pays and book for any online services that the customer wishes for, be it enjoying a popcorn tub at cinemas or travelling to the Himalayas. India is becoming cashless and we are here to help you come along."
+  "Acd7dacee": "REFER NOW"
+  "Adb8ff484": "Second Floor, Plot A, Khasra 360, <br> Near Indian Bank, Behind Centrum Mall,<br> Sultanpur Metro Station -110030"
+  "Af3a29486": "Steps"
+  "A92b87e5c": "T&C"
+  "A6c719555": "Toggle navigation"
+#  "A44d2fd49": "Want to Buy <br>High end Accessories or <b>Clothes</b>"
+  "aboutRight": "So go ahead, now buy what you want, when you want it. And if you pay back within 30-45 days, no interest! You can also choose an EMI option of 3/6/9 or 12 months at a flat 2% interest. No collateral, no security, just verify your identity on our app by submitting your identification proof, student-ID and a selfie to get instant credit for your orders. All you need to do is download, upload, submit and receive instant credit!"
+  "A70debe80": "Why use Redcarpet"
+  "aboutLeft": "Ever wondered if a selfie could get you credit for your online orders? We do just that! REDCARPET is India’s first app based student credit line. Redcarpet pre-pays and books any online services that the customer wishes for, be it enjoying an evening at the cinemas complete with a popcorn tub or travelling to the Himalayas or just shopping online for all the important stuff you need. And you can pay us back in easy EMIs."
+
+  links:
+    - title: About Us
+      url: /about/
+
+    - title: Cards
+      url: /credit/creditpay-card
+
+    - title: Careers
+      url: /credit/campus-ambassador
+
+    - title: Contact Us
+      url: /location/
+  topheadline: THE MORE YOU REFER, THE MORE YOU EARN!
+  headline: HELP A FRIEND BUY WHAT THEY NEED, WITHOUT WORRYING ABOUT CASH
+  subHeading:  And you get ₹250 per friend you recommend!
+  purpleImageHeading: "Why use Redcarpet"
+  stepHeadline: "HERE ARE THE STEPS :"
+  steps:
+    - Refer RedCarpet to your friends. Tell them how it can help them purchase important things even without cash.
+    - When they download the app, give your redcarpet registered phone number to be used as a referral code.
+    - Then have your friend enter the referral code in the login page, as shown in the image.
+    - Once your friend makes payment for the smart-card, you get ₹250 cash, either in your Paytm account or your bank account.
+  benefitHeadline: HOW YOUR FRIENDS' BENEFIT?
+  benefits: If your friends joined the RedCarpet family through your reference then they get ₹250 off on the purchase of the Smart Card.
+  tandc:
+    - Payment will be done only when your friend successfully completes their purchase for smart-card.
+    - In case of return or refund, referral amount will not be credited.
+
+  pizza: "**Giving treats to your friends?** <br> Your perfect <br>Cashless Pizza-Beer Party!!"
+  grid:
+    - caption: <b>Going home?</b> <br> Book your flight or train tickets!
+      imageUrl: /referral/img/portfolio/cabin.png
+
+    - caption: <b>Giving your friends a treat? </b> <br> Host the perfect pizza party, even without cash!
+      imageUrl: /referral/img/portfolio/cake.png
+
+    - caption: <b>Attend events around town!</b> <br>Book tickets for concerts, live shows, movies and more..
+      imageUrl: /referral/img/portfolio/circus.png
+
+    - caption: <b>Crazy about gadgets?</b><br>Get the latest mobiles, play stations<br> and more..
+      imageUrl: /referral/img/portfolio/game.png
+
+    - caption: <b>Look good, always.</b> <br>Shop for latest trends, without worrying about the bill.
+      imageUrl: /referral/img/portfolio/safe.png
+
+    - caption: <b>Bills overdue?</b><br>Just tell us and we'll pay it for you.
+      imageUrl: /referral/img/portfolio/submarine.png
+  location:
+    title: LOCATION
+    text: "Second Floor, Plot A, Khasra 360,<br>
+        Near Indian Bank, Behind Centrum Mall,<br>
+        Sultanpur Metro Station -110030"
+  socialIcon:
+    title: AROUND THE WEB
+    content:
+      - icon: facebook
+        url: https://www.facebook.com/redcarpetup
+      - icon: twitter
+        url: https://twitter.com/RedCarpetUp
+      - icon: instagram
+        url: https://instagram.com/RedCarpetUp
+  footer:
+    title: Copyright &copy; RedCarpet Tech Pvt Ltd.
+    list:
+      - title: faq
+        link: /faq/
+      - title: legal
+        link: /legal/      
+ 
+  

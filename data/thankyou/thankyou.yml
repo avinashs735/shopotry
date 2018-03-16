@@ -1,0 +1,30 @@
+name: thankyou
+dummy:
+  heading: Awesome! You're almost done. 
+  text: |
+        Follow the steps below to complete your purchase.
+
+icons:
+  first: Download the<br/> Redcarpet app.
+  second: Get verified by<br/> uploading your<br/> college ID and<br/> Aadhaar card.
+  third:  Congrats! Your<br/> purchase is complete.
+
+break:
+   text: “Give a man a fish, and he'll eat for a day. Teach a man to fish, and he'll eat for a lifetime.” What they don't say is, “And it would be nice if you gave him a fishing rod.” <br/>That's the part of the analogy that's missing."-- Trevor Noah.
+   head: We will give you the fishing rod.
+
+benefit:
+  heading: Hi! We are Redcarpet - India's leading fintech startup.      
+  subheading: We make your dreams come to life. 
+
+benefitpoint:
+  first:
+     head: BUY NOW,PAY LATER
+     text: Hassel free EMI, pay over a period of time.
+  second:
+    head: FINANCIAL FREEDOM
+    text: You don’t have to wait or depend on someone to buy something that you really need. 
+  third:
+    head: FLEXIBLE EMI
+    text: Easy repayment options,<br/>pay in 3/6/9/12 months.
+

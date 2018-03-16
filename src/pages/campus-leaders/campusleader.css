@@ -1,0 +1,144 @@
+/* css of campus-leader page */
+
+section.intro {
+    text-align: left;
+    padding-top: 2%;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-bottom: 1%;
+    color: #666666;
+}
+div.introheading {
+    text-transform: uppercase;
+}
+div.text {
+    color: #666666;
+    font-size: 16px;
+}
+.benefits {
+    text-align: left;
+    padding-top: 1%;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-bottom: 1%;
+    margin-top: -10px;
+    color: #666666;
+}
+div.introheading {
+    text-transform: uppercase;
+}
+p.points {
+    color: #666666;
+    font-weight: bold;
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+div.text {
+    color: #666666;
+    font-size: 16px;
+}
+section.apply {
+    text-align: center;
+    padding-top: 1%;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-bottom: 2%;
+}
+div.applytext {
+    font-size: 24px;
+    color: #666666;
+    letter-spacing: 1.03px;
+}
+button.apply{
+    height: 50px;
+    width: 150px;
+    background: #33D9BC;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.50);
+    border-radius: 51px;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 20px;
+    letter-spacing: 0.15em;
+    margin-top: 10px;
+}
+section.campusleadervideo {
+    padding-left: 25%;
+    padding-right: 25%;
+
+}
+div.leadervideoheading {
+    font-size: 24px;
+    color: #27B59C;
+}
+.intrinsic-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.intrinsic-container-16x9 {
+    padding-bottom: 56.25%;
+}
+.intrinsic-container {
+    position: relative;
+    height: 0;
+    overflow: hidden;
+}
+section.contact {
+    text-align: left;
+    padding-top: 1%;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-bottom: 1%;
+}
+div.touch {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.content-heading{
+    color: #27B59C;
+    font-family: inherit;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.1;
+}
+.LOR-content{
+    width:65%;
+    float: left;
+    
+    height: 195px;
+    padding-left:15px ;
+    padding-right: 15px
+}
+.LOR-logo{
+    width:100%;
+    
+    height: 195px
+}
+.ROL-content{
+    width:100%;
+    
+    height: 195px;
+    padding-left:25px ;
+    padding-right: 15px;
+    padding-top: 10px
+}
+.ROL-logo{
+    width:35%;
+ float: left;
+    
+    height: 195px
+}
+
+div.LOR-conent h3{
+    color: #666666;
+    font-weight: bold;
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-top: 10px
+}

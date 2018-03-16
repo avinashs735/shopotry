@@ -1,0 +1,892 @@
+  name: deals
+  "A74247576": "Flat 15% off"
+  "A5dbd0c04": "&copy; RedCarpet Tech Pvt Ltd. &nbsp;"
+  #"A747ab748": "1 Pizza must be of Signature/Supreme range"
+  #"A3a02920b": "20% discount applicable only on your first online order on Zomato"
+  #"Abd88466b": "20% off on your First Order on Zomato + upto 20% off on Subway"
+  #"Ac0b122f8": "25% off on orders above ₹150"
+  "A6f293ae6": <a href="/about" target="_blank">About</a>
+  "A105f3767": <a href="/flexi/#benefits" target="_blank">Benefits</a>
+  "A707a1755": <a href="/flexi/#faq">FAQ</a>
+  "A636fdc2f": <a href="/flexi/#features">Features</a>
+  "Abbf9f0ee": <a href="/flexi/#testimonial">Testimonial</a>
+  "A23d42032": <a href="https://play.google.com/store/apps/details?id=com.redcarpetup.rewardpay&hl=en"><img src="/deals/images/play.png" class="play"></a>
+  "Aedd88caf": <a href="/deals/#deals">Deals</a>
+  "A1a3bdff7": <i class="fa fa-facebook"></i> &nbsp;
+  "A90e084d0": <i class="fa fa-twitter"></i> &nbsp;
+  "Aa8cee1d6": <img src="../assets/images/logo.png" class="loogo">
+  "A0088d42d": <img src="/deals/images/play.png" class="glay">
+  "Af4c121f5": <img src="/deals/images/play.png" class="play">
+  #"A8f7f4c1c": "About"
+  #"Ae654f7a8": "Benefits"
+  #"Adf3a7f53": "Buy 1 & Get 1 Free"
+  #"A7a7fe986": "Buy 1 Get 1 Free on Medium Pizza"
+  #"A71483d77": "Buy one and get one free on all orders."
+  #"A0858ad10": "Can be used multiple times"
+  #"Ada9584bf": "Can be used once per user"
+  #"A4c4ddfa6": "Chai Point"
+  #"A928dd0ba": "chaipoint.com"
+  "Ad6ab0ea8": "Deals"
+  "A9abc0922": "Deals | RedCarpet"
+  #"Aef456248": "Dominos"
+  #"A76516bd6": "dominos.co.in"
+  #"A7500b334": "Dunkin Donuts"
+  #"A03ed3377": "dunkinindia.com"
+  #"Af0df100a": "Faasos"
+  #"A115aad11": "faasos.com"
+  #"A1fe917b0": "FAQ"
+  #"A98f770b0": "Features"
+  #"Abd5355b2": "Flat 15% off on Orders of ₹450 and above"
+  #"Acedda008": "Flat 25% off"
+  #"A6e398471": "Flat 25% off on ₹350 and more"
+  #"A687378e8": "Flat ₹100 off on ₹400"
+  #"Aab9617fa": "Flat ₹50 off on orders of ₹200"
+  #"A7cc0d32b": "foodpanda"
+  #"Ade6c90b5": "foodpanda.in"
+  #"A5346682d": "KFC"
+  #"Aa0b9afe2": "kfc.co.in"
+  #"A9c86c94f": "Maximum discount value of ₹100"
+  #"A95b52263": "Maximum discount value of ₹50"
+  #"Ae4efcae8": "Maximum discount value ₹175"
+  #"A9fc0a065": "Maximum discount ₹100"
+  #"Ac56ddd54": "Minimum order value of ₹450"
+  #"A167d9b9e": "Minimum order value ₹150"
+  #"A968a847f": "Minimum order value ₹200"
+  #"A152067ce": "Minimum order value ₹400"
+  #"A49a65fea": "Minimum order value ₹500"
+  #"Aed2a0460": "No maximum discount"
+  #"Ad69c07a4": "Not applicable on MRP products, value combos and beverages."
+  #"Ae867bde8": "Not valid on Big Pizza and Cheese Maxx Pizza"
+  #"Addd701c2": "Not valid on Dominos, Subway, KFC"
+  #"Afdc62dea": "Not Valid on Regular Size Pizzas"
+  #"A3f6b21f0": "Order food online on Zomato from Subway and get additional 20% off"
+  #"A432e93ae": "Pizza Hut"
+  #"A12c45162": "pizzahut.co.in"
+  #"A95d99db0": "Sweet Khana"
+  #"Af26f3af1": "sweetkhana.com"
+  "A5289f1a9": "Testimonial"
+  "A6c719555": "Toggle navigation"
+  "A5e6bf82c": Use code on <a href="http://kfc.co.in" target="_blank">kfc.co.in</a>
+  "Af78bd70b": Use code on <a href="http://sweetkhana.com" target="_blank">sweetkhana.com</a>
+  "A799947b0": Use code on <a target="_blank" href="http://chaipoint.com">chaipoint.com</a>
+  "A1d2e5c80": Use code on <a target="_blank" href="http://faasos.com">faasos.com</a>
+  "A5be429bd": Use code on <a target="_blank" href="http://foodpanda.in">foodpanda.in</a>
+  "Aed860f32": Use code on <a target="_blank" href="http://online.pizzahut.co.in">pizzahut.co.in</a>
+  "A89c3e313": Use code on <a target="_blank" href="http://pizzaonline.dominos.co.in">dominos.co.in</a>
+  "A3e12bff6": Use code on <a target="_blank" href="http://zomato.com">zomato.com</a>
+  "A06215bdc": Use code on <a target="_blank" href="https://online.dunkinindia.com/">dunkinindia.com</a>
+  "A970c3146": "Use coupon for extra 20% discount"
+  #"Aaa655dae": "Valid for one time use only"
+  #"A372314dd": "Valid for online orders only"
+  #"Af9e04e1b": "Valid only for new customers"
+  #"Aeedaf7a2": "Valid only for new customers."
+  #"A4e797c7d": "Valid only on Medium & Large Size Pizzas"
+  #"Aa6f9bfce": "Valid only on website and app orders"
+  #"A96cdf646": "Valid till June 30 2017"
+  #"Ad11a3334": "Valid till December 31 2017"
+  #"Aede77a48": "Valid till June 30 2017"
+  #"A09119845": "Valid till June 30 2017"
+  #"A66f2b1e5": "Zomato Order"
+  #"Af5377da1": "zomato.com"
+  avinash: hi this is avinash.
+  links:
+    - title: FEATURES
+      url: /credit/smart-card
+      target:
+
+    - title: DEALS
+      url: /credit/deals/
+      target:
+
+    - title: FAQ
+      url: /faq
+      target:
+
+    - title: TESTIMONIAL
+      url: /categories/testimonials
+      target:
+
+    - title: ABOUT
+      url: /about
+      target: 
+
+    - title: <img src="/deals/images/play.png" class="play">
+      url: https://play.google.com/store/apps/details?id=com.redcarpetup.rewardpay&hl=en
+      target:
+  offers:
+    - row:
+        - title: Zomato Order
+          detail: FLAT 40% OFF
+          id: item1
+          features:
+            - "Valid till March 31 2018"
+            - "Use code on zomato.com"
+            - "Cd exclusive flat 40% off on your first online order"
+          couponCode: CD150
+          url: /deals/images/brands/zomato.svg
+          imageWidth: 70
+          imageHeight: 50
+
+        - title: Dominos
+          detail: FLAT 25% OFF ON ₹350 AND MORE
+          id: item2
+          features:
+            - "Valid till July 31 2018"
+            - "Use code on dominos.co.in"
+            - "50% OFF ON ANY MEDIUM PAN PIZZA<br><br>"
+          couponCode: NET10
+          url: /deals/images/brands/dominos.jpg
+          imageWidth: 70
+          imageHeight: 50
+
+        - title: Pizza Hut
+          detail: GET UPTO 50% OFF
+          id: item3
+          features:
+                - "Valid till Feb 20 2018"
+                - "Use code on pizzahut.co.in"
+                - "50% OFF ON ANY MEDIUM PAN PIZZA<br>"
+          couponCode: PHE01
+          url: /deals/images/brands/pizzahut.png
+          imageWidth: 70
+          imageHeight: 50
+
+    - row:
+        - title: Faasos
+          detail: BUY 1 & GET 1 FREE
+          id: item4
+          features:
+              - "Valid till March 31 2018"
+              - "Use code on faasos.com"
+              - "Buy one and get one free on all orders."
+              - "Valid only for new customers."
+              - "Not applicable on MRP products, value combos and beverages."
+          couponCode: CDFB1G1
+          url: /deals/images/brands/faasos.jpg
+          imageWidth: 70
+          imageHeight: 50
+
+        - title: foodpanda
+          detail: FLAT Rs 75 OFF
+          id: item5
+          features:
+              - "Valid till Feb 02 2018"
+              - "Use code on foodpanda.in"
+              - "FLAT RS 75 off on minimum order of Rs 300 <br><br><br> <br>"
+          couponCode: COMBO75
+          url: /deals/images/brands/foodpanda.jpg
+          imageWidth: 146
+          imageHeight: 146
+
+        - title: Chai Point
+          detail: GET 25% OFF
+          id: item6
+          features:
+            - "Valid till Feb 28 2018"
+            - "25% off on all chai poiny orders"
+            - "minimum order value rs 250"
+            - "maximum discount rs 100<br><br>"
+          couponCode: ZETA20
+          url: /deals/images/brands/cp.png
+          imageWidth: 110
+          imageHeight: 90
+
+          
+
+    - row:
+        - title: Sattviko
+          detail: FLAT 25% OFF
+          id: item7
+          features:
+            - "Valid till December 31 2018"
+            - "upto 20% off =extra 15% off sitewide <br>"
+          couponCode: NA
+          url: /deals/images/brands/Sattviko.png
+          imageWidth: 70
+          imageHeight: 50
+
+        - title: Flavors of my city 
+          detail: FLAT 150 Rs OFF
+          id: item8 
+          features:
+            - "Valid till Feb 20 2018"
+            - "install the flavors of my city app and get rs  50 off on your first mobile order"
+            - "minimum order value of rs 150<br><br>"
+          couponCode: MOB18
+          url: /deals/images/brands/flavrcity.jpg
+          imageWidth: 70
+          imageHeight: 50
+        - title: FLORISTA
+          detail: FLAT 20% OFF 
+          id: item9
+          features:
+            - "Valid till August 31 2018 <br>"
+          couponCode: FLZETA20
+          url: /deals/images/brands/florista.png
+          imageWidth: 70
+          imageHeight: 50
+    - row:
+        - title: MOBICHEM
+          detail: GET 20% OFF
+          id: item10
+          features:
+            - "Valid till March 31 2018"
+            - "Flat 20% off on your shopping<br><br>"
+          couponCode: ZETA20
+          url: /deals/images/brands/mobchem.jpg
+          imageWidth: 146
+          imageHeight: 146
+
+        - title: NETMEDS
+          detail: GET EXCLUSIVE OFF
+          id: item11
+          features:
+            - "Valid till March 31 2018"
+            - "FLAT20% OFF +10% CASHBACK<br>"
+          couponCode: ZETA30
+          url: /deals/images/brands/netmeds.png
+          imageWidth: 146
+          imageHeight: 146
+
+        - title: RENTICKLE
+          detail: GET Exclusive offer 
+          id: item12
+          features:
+            - "Valid till March 31 2018"
+            - "Get upto FLAT 100% OFF<br><br>"
+          couponCode: ZETA1200
+          url: /deals/images/brands/rentickle.png
+          imageWidth: 146
+          imageHeight: 146
+
+    - row:
+        - title: NUKKADWALA
+          detail: FLAT 10% OFF 
+          id: item13
+          features:
+            - "Valid till Feb 28 2018 <br>"
+          couponCode: NA
+          url: /deals/images/brands/nukkadwala.jpg
+          imageWidth: 146
+          imageHeight: 146
+
+        - title: FERNS AND PETALS
+          detail: FLAT RS 150 OFF
+          id: item14
+          features:
+            - "Valid till March 31 2018<br><br>"
+          couponCode: ZETA150
+          url: /deals/images/brands/fernspetals.png
+          imageWidth: 146
+          imageHeight: 146
+
+        - title: Railyatri
+          detail: GET 50% OFF
+          id: item15
+          features:
+            - "Valid till Feb 20 2018"
+            - "Get 50% off on food delivery in train"
+            - " maximum discount rs 100,  no minimum order needed<br>"
+          couponCode: CDRY50
+          url: /deals/images/brands/railyatri.png
+          imageWidth: 146
+          imageHeight: 146
+
+    - row:
+        - title: Mizon
+          detail: FLAT 15%  OFF 
+          id: item16
+          features:
+            - "Valid till Feb 20 2018"
+            - "Ge flat 15%off on sigree global grill opn voucher worth rs 250,rs500,rs1000"
+          couponCode: FINEDINE
+          url: /deals/images/brands/PandL.png
+          imageWidth: 146
+          imageHeight: 146
+
+        - title: behrouz biryani
+          detail: GET FLAT 15% OFF
+          id: item17
+          features:
+            - "Valid till March 31 2018"
+            - "Get flat 15% off on ordersof rs 299 and more"
+            - " macimum discount rs 100"
+            - "users only not applicable on combos's beverages, MRP products"
+          couponCode: CDBB15
+          url: /deals/images/brands/behroz.jpg
+          imageWidth: 70
+          imageHeight: 50
+
+        - title: Mobikwik
+          detail: FLAT 30% OFF
+          id: item18
+          features:
+            - "Valid till Feb 02 2018"
+            - "save rs 150+flat 30% supercasg at zomato everyweek <br>"
+          couponCode: KWIK150
+          url: /deals/images/brands/MobiKwik.png
+          imageWidth: 146
+          imageHeight: 146
+
+    - row:
+        - title: Box8 desi meals
+          detail: Anything justt in Rs 99
+          id: item19
+          features:
+            - "Valid till Feb 20 2018"
+            - "CD exclusive buy anything at rs 99"
+            - "minimum order value of rs 150<br><br><br>"
+          couponCode: BXCD99
+          url: /deals/images/brands/box8.png
+          imageWidth: 146
+          imageHeight: 146
+        
+        - title: Mojo pizza doubly loaded
+          detail: GET ANY PIZZA AT Rs 199
+          id: item20
+          features:
+            - "Valid till Feb 28 2018"
+            - "Any pizza at rs 199"
+            - " not valid on party packs,drinks ,desserts <br><br>"
+          couponCode: MJCD199
+          url: /deals/images/brands/mojo.png
+          imageWidth: 146
+          imageHeight: 146
+        
+        - title: Nitefoodie 
+          detail: MEAL FREE
+          id: item21
+          features:
+            - "Valid till Feb 20 2018"
+            - "sign up and get first meal free<br>"
+          couponCode: CDFREE
+          url: /deals/images/brands/nightfoodie.jpg
+          imageWidth: 146
+          imageHeight: 146
+
+    - row:
+        - title: Sweetnquick
+          detail: UPTO 50% OFF
+          id: item22
+          features:
+            - "Valid till Feb 20 2018"
+            - "holi special upto 50% off sitewide <br><br>"
+          couponCode: SNQ200
+          url: /deals/images/brands/sweetnquick.jpg
+          imageWidth: 146
+          imageHeight: 146
+
+        - title: Xoxoday
+          detail: FLAT 30% OFF
+          id: item23
+          features:
+            - "Valid till Feb 28 2018"
+            - "flat 30% off on all activities "
+            - "minimum purchase value rs 3000"
+            - " maximum discount rs 500 <br><br>"
+          couponCode: XOXO30
+          url: /deals/images/brands/xoxo.jpg
+          imageWidth: 146
+          imageHeight: 146
+        - title: foodcloud 
+          detail: FLAT  10% OFF 
+          id: item24
+          features:
+            - "Valid till Feb 20 2018"
+            - "flat 10% off on min order of rs 300 from house of burger <br><br>"
+          couponCode: BURGER
+          url: /deals/images/brands/fdcloud.png
+          imageWidth: 146
+          imageHeight: 146
+
+    - row:
+        - title: pethawala agra 
+          detail: GET 15% OFF
+          id: item25
+          features:
+            - "Valid till Feb 20 2018"
+            - "flat 15% off on inidan sweets "
+          couponCode: PWA15
+          url: /deals/images/brands/pethawalaagra.png
+          imageWidth: 70
+          imageHeight: 50
+
+        - title: Bueno
+          detail: FLAT 50% OFF
+          id: item26
+          features:
+            - "Valid till FEB 20 2018"
+            - "FLAT 50% off + free walnut brownies on first order <br>"
+          couponCode: FIRST50
+          url: /deals/images/brands/bueno.png
+          imageWidth: 146
+          imageHeight: 146
+        
+        - title: petoo
+          detail: FLAT 25% OFF 
+          id: item27
+          features:
+            - "Valid till March 01 2018"
+            - "Get 25% off on your first order <br>"
+          couponCode: N5DU
+          url: /deals/images/brands/petoo.png
+          imageWidth: 146
+          imageHeight: 146
+
+    - row:
+        - title: frsh
+          detail: GET Rs 100 OFF
+          id: item28
+          features:
+            - "Valid till Feb 20 2018"
+            - "rs 100 off on order abover rs 299<br><br>"
+          couponCode: WELCOME
+          url: /deals/images/brands/frsh.jpg
+          imageWidth: 146
+          imageHeight: 146
+
+        - title: railrestro
+          detail: GET 10% OFF
+          id: item29
+          features:
+            - "Valid till Feb 20 2018"
+            - "10% off on aying via cc avenue <br> <br>"
+          couponCode: RESTRO10
+          url: /deals/images/brands/railrestro.png
+          imageWidth: 146
+          imageHeight: 146
+
+        - title: firangibake
+          detail: FLAT 75 Rs OFF
+          id: item30 
+          features:
+            - "Valid till June 30 2018"
+            - "flat rs 75 off on orders of rs 349 and above <br><br><br><br>"
+          couponCode: FBC75
+          url: /deals/images/brands/firangi.png
+          imageWidth: 200
+          imageHeight: 146
+
+    - row:
+        - title: scootsy
+          detail: FLAT 150Rs OFF
+          id: item31
+          features:
+            - "Valid till Feb 20 2018"
+            - "FLAT RS 150 OFF ON YOUR FIRST ORDER ON RS 500<br>"
+          couponCode: TRYSCOOTSY
+          url: /deals/images/brands/scootsy.jpg
+          imageWidth: 100
+          imageHeight: 70
+
+        - title: ovenstory
+          detail: FLAT 20% OFF
+          id: item32
+          features:
+            - "Valid till Feb 20 2018"
+            - "FLAT 20% OFF ON RS 300  <br><br>"
+          couponCode: CHEESY20
+          url: /deals/images/brands/ovenstory.png
+          imageWidth: 100
+          imageHeight: 100
+
+        - title: udyantea
+          detail: FLAT 25% OFF 
+          id: item33
+          features:
+            - "Valid till Feb 20 2018"
+            - "FLAT 25% OFF ON MIN ORDER OF RS 500<br>"
+          couponCode: TEA25
+          url: /deals/images/brands/udyantea.jpg
+          imageWidth: 100
+          imageHeight: 70
+
+
+    - row:
+        - title: teafloor
+          detail: GET 10% OFF
+          id: item34
+          features:
+            - "Valid till Feb 20 2018"
+            - "FLAT 10% OFF ON YOUR FIRST CUP OF COFFEE"
+          couponCode: FIRST10
+          url: /deals/images/brands/teafloor.jpg
+          imageWidth: 146
+          imageHeight: 146
+
+        - title: zaffran
+          detail: FLAT 20% OFF
+          id: item35
+          features:
+            - "Valid till Feb 20 2018"
+            - "20% OFF ON YOUR TOTAL BILL<br><br>"
+          couponCode: ZAFFRAN20
+          url: /deals/images/brands/zaffran.jpg
+          imageWidth: 80
+          imageHeight: 50
+        
+        - title: exoticflavoursofindia
+          detail: FLAT 10% OFF 
+          id: item36
+          features:
+            - "Valid till Feb 20 2018"
+            - "FLAT 10% OFF ON SWEETS<br><br><br>"
+          couponCode: EXOTICSW10
+          url: /deals/images/brands/exfoi.jpg
+          imageWidth: 100
+          imageHeight: 50
+
+    - row:
+        - title: pizza roma
+          detail: GET 20% OFF
+          id: item37
+          features:
+            - "Valid till Feb 20 2018"
+            - "FLAT 20% OFF ON ALL ORDERS ABOVE RS 500<br><br>"
+          couponCode: PIZZA20
+          url: /deals/images/brands/Pizzaroma.jpg
+          imageWidth: 70
+          imageHeight: 50
+
+        - title: order rabbit
+          detail: FLAT 15% OFF
+          id: item38
+          features:
+            - "Valid till Feb 20 2018"
+            - "FLAT 15% OFF ON RS 1000+ <br>"
+          couponCode: RABBITDUNIA115
+          url: /deals/images/brands/or.jpg
+          imageWidth: 70
+          imageHeight: 50
+
+        - title: mango shoppers.com
+          detail: GET 100 Rs OFF 
+          id: item39
+          features:
+            - "Valid till Feb 20 2018"
+            - "Register& get rs 100 off <br>"
+          couponCode: R100
+          url: /deals/images/brands/mangoshopper.png
+          imageWidth: 70
+          imageHeight: 50
+
+    - row:
+        - title: sprout
+          detail: GET 20% OFF
+          id: item40
+          features:
+            - "Valid till Feb 20 2018"
+            - "20% OFF ON FOOD ORDERS ABOVE RS 200 AND SIGN UP<br>"
+          couponCode: NEW20
+          url: /deals/images/brands/sprouts.png
+          imageWidth: 70
+          imageHeight: 50
+
+        - title: fast2cart
+          detail: GET Rs200 OFF
+          id: item41
+          features:
+            - "Valid till Feb 20 2018"
+            - "RS200 OFF ON RS 1000 <br><br>"
+          couponCode: F2C200OFF
+          url: /deals/images/brands/f2c.png
+          imageWidth: 120
+          imageHeight: 80
+
+        - title: ratlami chatora
+          detail: FLAT 200 Rs OFF 
+          id: item42
+          features:
+            - "Valid till Feb 20 2018"
+            - "RS 200 OFF ON RS 2000 SITEWIDE<br><br>"
+          couponCode: CDCB200
+          url: /deals/images/brands/ratlami.png
+          imageWidth: 70
+          imageHeight: 50
+
+    - row:
+        - title: hommic
+          detail: GET Rs 75 OFF
+          id: item43
+          features:
+            - "Valid till Feb 20 2018"
+            - "flat rs 75 off on orders <br><br><br>"
+          couponCode: WELCOME
+          url: /deals/images/brands/hommic.png
+          imageWidth: 100
+          imageHeight: 50
+
+        - title: shopongo
+          detail: GET 10% FLAT OFF
+          id: item44
+          features:
+            - "Valid till Feb 20 2018"
+            - "FLAT10%OFF ON YOUR 1ST ORDER <br>"
+          couponCode: SOGFIRST
+          url: /deals/images/brands/shopongo.png
+          imageWidth: 70
+          imageHeight: 50
+
+        - title: torrp-it-up
+          detail: FLAT 20% OFF 
+          id: item45
+          features:
+            - "Valid till Feb 20 2018"
+            - "FLAT 20% OFF ON ALL ORDERS ABOVE RS 500<br><br>"
+          couponCode: TORRP20
+          url: /deals/images/brands/torrpitup.png
+          imageWidth: 70
+          imageHeight: 50
+
+    - row:
+        - title: miltop online
+          detail: GET 25% OFF
+          id: item46
+          features:
+            - "Valid till Feb 20 2018"
+            - "FLAT25% OFF ON RS 1500<br><br>"
+          couponCode: WOW25
+          url: /deals/images/brands/miltop.png
+          imageWidth: 150
+          imageHeight: 80
+
+        - title: redcooker
+          detail: FLAT 50% OFF
+          id: item47
+          features:
+            - "Valid till Feb 20 2018"
+            - "FLAT 50% OFF ON YOUR FIRST ORDER<br>"
+          couponCode: F2C200OFF
+          url: /deals/images/brands/redcooker.png
+          imageWidth: 70
+          imageHeight: 50
+
+        - title: chefsway
+          detail: FLAT 10% OFF 
+          id: item48
+          features:
+            - "Valid till Feb 20 2018"
+            - "10% OFF ON YOUR FIRST ORDER<br><br>"
+          couponCode: CW10
+          url: /deals/images/brands/chefsway.png
+          imageWidth: 100
+          imageHeight: 50
+
+    - row:
+        - title: foodwalas
+          detail: GET 5% OFF
+          id: item49
+          features:
+            - "Valid till March 31 2018"
+            - "5% OFF ON ALL PRODUCTS<br><br>"
+          couponCode: FD5
+          url: /deals/images/brands/fdwala.png
+          imageWidth: 70
+          imageHeight: 50
+
+        - title: tummykart
+          detail: GET 15% OFF
+          id: item50
+          features:
+            - "Valid till Feb 20 2018"
+            - "FLAT RS 15% OFF ON ONLINE ORDERS<br>"
+          couponCode: TUMMY15
+          url: /deals/images/brands/tummycart.png
+          imageWidth: 70
+          imageHeight: 50
+
+        - title: healthians 
+          detail: FLAT 30% OFF 
+          id: item51
+          features:
+            - "Valid till April 30 2018"
+            - "Flat 30% off on your bill<br><br>"
+          couponCode: ZETA
+          url: /deals/images/brands/healthians.png
+          imageWidth: 70
+          imageHeight: 50
+
+    - row:
+        - title: natures basket 
+          detail: GET 10% cashback
+          id: item52
+          features:
+            - "Valid till April 30 2018"
+            - "Get 10% cashbock on your shopping<br><br>"
+          couponCode: NB10CB
+          url: /deals/images/brands/naturebasket.png
+          imageWidth: 70
+          imageHeight: 50
+
+        - title: groffers
+          detail: GET 5% cashback
+          id: item53
+          features:
+            - "Valid till March 31 2018"
+            - "Get 5% cashback on your order <br>"
+          couponCode: ZETA5
+          url: /deals/images/brands/groffer.png
+          imageWidth: 70
+          imageHeight: 50
+
+        - title: BAZAARCART
+          detail: FLAT 10% OFF 
+          id: item54
+          features:
+            - "Valid till March 31 2018"
+            - "FLAT 10% OFF on your order<br><br>"
+          couponCode: ZETA10
+          url: /deals/images/brands/bazaarcart.png
+          imageWidth: 70
+          imageHeight: 50
+
+
+    - row:
+        - title: HAVMOR
+          detail: Buy 2 Get 3rd free
+          id: item55
+          features:
+            - "Valid till Feb 28 2018"
+            - "buy two scoops and get other 3rd scoop free <br><br>"
+          couponCode: ZETAB2G3
+          url: /deals/images/brands/havmor.jpg
+          imageWidth: 70
+          imageHeight: 50
+        
+        - title: APOLLO
+          detail: GET UPTO 15% OFF
+          id: item56
+          features:
+            - "Valid till March 03 2018<br>"
+            - "GET BENEFITS UPTO 15% AT APOLLO PHARMACY<br><br>"
+          couponCode: ZETA5321
+          url: /deals/images/brands/apollo.png
+          imageWidth: 70
+          imageHeight: 50
+
+        - title: 1MG
+          detail: FLAT 22% OFF 
+          id: item57
+          features:
+            - "Valid till March 03 2018"
+            - "Flat 22% off on your shopping<br>"
+          couponCode: ZETA22
+          url: /deals/images/brands/1mg.svg
+          imageWidth: 70
+          imageHeight: 50
+  
+    - row: 
+        - title: FOODFEASTA
+          detail: FLAT 15% OFF 
+          id: item58
+          features:
+            - "Valid till Feb 28 2018 <br><br>"
+          couponCode: FFZETA15
+          url: /deals/images/brands/foodfeasta.png
+          imageWidth: 70
+          imageHeight: 50
+
+        - title: FLORISTA
+          detail: FLAT 20% OFF 
+          id: item59
+          features:
+            - "Valid till August 31 2018 <br>"
+          couponCode: FLZETA20
+          url: /deals/images/brands/florista.png
+          imageWidth: 70
+          imageHeight: 50
+        
+        - title: DESI VIBES
+          detail: FLAT 15% OFF 
+          id: item60
+          features:
+            - "Valid till April 04 2018 <br><br>"
+          couponCode: NA
+          url: /deals/images/brands/desivibe.svg
+          imageWidth: 146
+          imageHeight: 146
+
+    - row:
+        - title: oliveTrails
+          detail: FLAT 10% OFF
+          id: item61
+          features:
+            - "Valid till March 31 2018"
+            - "Coupondunia exclusive 10%off on minimum order of rs 300 ,minimum discount rs 100 <br>"
+          couponCode: CDOT10
+          url: /deals/images/brands/OliveTrails.png
+          imageWidth: 70
+          imageHeight: 50
+
+        - title: fresh menu 
+          detail: FLAT 30 Rs OFF 
+          id: item62
+          features:
+            - "Valid till Feb 20 2018"
+            - "rs 30 off on salad<br><br>"
+          couponCode: FRESHSALAD
+          url: /deals/images/brands/freshmenu.png
+          imageWidth: 70
+          imageHeight: 50
+
+        - title: reliance fresh direct
+          detail: FLAT 3% OFF 
+          id: item63
+          features:
+            - "Valid till Feb 20 2018"
+            - "3% OFF ON ORDER OF RS 999 AND ABOVE"
+            - " NOT AVAILABLE ON SINGLE PRODUCTS<br><br>"
+          couponCode: DIRECT3
+          url: /deals/images/brands/rlsmart.png
+          imageWidth: 70
+          imageHeight: 50
+
+
+    - row:
+        - title: Swiggy
+          detail: FLAT 25% OFF
+          id: item64
+          features:
+            - "Valid till Feb 28 2018"
+            - "FLAT 150 Rs OFF "
+            - "free delivery on your 2nd swiggy order<br><br>"
+            
+          couponCode: FREEDEL2
+          url: /deals/images/brands/swiggy.png
+          imageWidth: 70
+          imageHeight: 50
+
+        - title: KFC
+          detail: FLAT 15% OFF
+          id: item65
+          features:
+            - "Valid till Feb 20 2018"
+            - "flat 15 % off on orders above Rs500 <br>"
+          couponCode: KFCD02
+          url: /deals/images/brands/kfc.png
+          imageWidth: 70
+          imageHeight: 50
+
+        - title: FOODFEASTA
+          detail: FLAT 15% OFF 
+          id: item66
+          features:
+            - "Valid till Feb 28 2018 <br><br>"
+          couponCode: FFZETA15
+          url: /deals/images/brands/foodfeasta.png
+          imageWidth: 70
+          imageHeight: 50
+
+    - row:
+       - title: Mc Donald's
+         detail: GET 1 FREE McChicken/McVeggie
+         id: item67
+         features:
+            - "Valid till Feb 20 2018"
+            - "Get 1 free McChicken/McVeggie burgers on all orders of Rs. 299 & above"
+            - " valid on online orders after 11am valid only in Mumbai, Chennai,Pune, Banglore,Ahmedbad, Hyderabad, Vadodara,Surat & Indore"
+            - "valid only once per user/day valid on app and web valid on all payment methods except McGold<br><br>"
+         couponCode: CD299
+         url: /deals/images/brands/mcd.png
+         imageWidth: 70
+         imageHeight: 50

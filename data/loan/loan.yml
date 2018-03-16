@@ -1,0 +1,52 @@
+  name: loan
+  "A26710600": <a href="tel:8882632272">contact</a>
+  "A246745bd": "&#8377;1680.00"
+  "A408781f1": <a href="/credit/apply" style="color:white">Apply Now</a>
+  "A0e2d7ef2": <a href="/credit/apply" target="_blank">Apply For Loan</a>
+  "Abdd805b5": <a href="https://play.google.com/store/apps/details?id=com.redcarpetup.rewardpay&hl=en"><img src="images/play.png" class="glay"></a>
+  "A23d42032": <a href="https://play.google.com/store/apps/details?id=com.redcarpetup.rewardpay&hl=en"><img src="images/play.png" class="play"></a>
+  "A6e593ccd": <a href="https://twitter.com/RedCarpetUp"><i class="social_twitter"></i></a>
+  "Aed104d55": <a href="https://www.facebook.com/redcarpetup"><i class="social_facebook"></i></a>
+  "Aed620d21": <a href="/about/" class="footer__nav-link">About</a>
+  "Af43c7d14": <a href="/location/" class="footer__nav-link">Contact</a>
+  "A2ff0913e": <i class="fa fa-angle-up"></i>
+  "A5a4e1c55": <i class="social_facebook"></i>
+  "A818a1441": <i class="social_twitter"></i>
+  "Af181a209": <img src="/loan/images/logo_red.png" alt="logo">
+  "A0088d42d": <img src="/loan/images/play.png" class="glay">
+  "Af4c121f5": <img src="/loan/images/play.png" class="play">
+  "Acc338577": <img src="/loan/images/slider/1.PNG" class="um">
+  "A36ac2548": <img src="/loan/images/slider/10.PNG" class="um">
+  "A61f0f8f8": <img src="/loan/images/slider/11.PNG" class="um">
+  "A34c93b93": <img src="/loan/images/slider/2.PNG" class="um">
+  "a77fd9602": <img src="/loan/images/slider/3.PNG" class="um">
+  "Aa396d66b": <img src="/loan/images/slider/4.PNG" class="um">
+  "A757d58c2": <img src="/loan/images/slider/6.PNG" class="um">
+  "A28f3c1d0": <img src="/loan/images/slider/7.PNG" class="um">
+  "A0ec73d1d": <img src="/loan/images/slider/8.PNG" class="um">
+  "A3a2da895": <img src="/loan/images/slider/9.PNG" class="um">
+  "A561076f6": <input type="range" id="test" value="1000" min="1000" max="60000" step="1000" oninput="showDown(this.value)">
+  "A413aaa78": <input type="range" value="10000" min="10000" max="60000" step="5000" oninput="showAmount(this.value)">
+  "A0eca888d": <input type="range" value="6" min="3" max="12" step="3" oninput="showMonth(this.value)">
+  "A20ff9768": <span class="sr-only">Toggle navigation</span>                 <span class="icon-bar"></span>                 <span class="icon-bar"></span>n                  <span class="icon-bar"></span>
+  "A8f7f4c1c": "About"
+  "A702d34fb": "Apply For Loan"
+  "A739dda5d": "Apply Now"
+  "A653fd7d4": "As simple as reading this! Just fill your details in the given form here. You'll get a call from our personal loan assistant. Tell him your needs and ask your queries. Download the Redcarpet app from playstore and go for the verification."
+  "A0161f26d": "Congratulations!! Unlike traditional banks, we don't charge anything if you want to pay early. Just pay back the complete amount and you're good to go.."
+  "Abbaff128": "Contact"
+  "A2f8a6bf3": "contact"
+  "A69b2b40f": Down-Payment :&#8377; <span id="show_down"></span>
+  "A5df0f2b6": "Flexi Credit Card is India's first Student Credit Card! Money or No Money. Now you never need to worry. Whatever your needs or luxuries are, use Flexi Credit Card to pay online & offline. And that too with 30 days Interest free money!!"
+  "A8bac79a9": Loan Amount :&#8377; <span id="show_amount"></span>
+  "A96d6f2e7": "logo"
+  "A9fc3f6b5": "Ohh.. No issues! We're flexible for you. You can anytime convert your 6 EMIs Duration into 9 or 12 months EMIs to reduce the EMI amount."
+  "A21e28199": Pay-Back Period:<span id="show_months"></span> Months
+  "A34f64190": "REDCARPETUP"
+  "A10eb97ff": "redcarpetup"
+  "A213a8e5f": "RedCarpetUp Student Loan"
+  "A6c719555": "Toggle navigation"
+  "A4e93ee24": "Unlike market rate of interest, we neither charge hefty 3.5℅ monthly interest nor compound it monthly. We like to keep it simple- Just 2℅ monthly simple interest."
+  "A8a716776": "We're a Google & YC funded fintech company empowering Indian students financially. We provide interest free 10k to 60k loans for any thing that the student wishes for, be it paying for an online course or a coaching centre to enjoying a popcorn tub at cinemas and travelling to Himalayas!!"
+  "Aca599027": "You can pay your EMIs on 3/6/9/12 months basis. Choose the plan & EMI that best suits to you & your budget. Pay through net banking, e-wallets, payu, debit cards or schedule a cash pickup at your location."
+  "A828d3249": "Your Loan & credits are just an App Away! Just download Redcarpet app from playstore. Say cheese and upload your selfie, student ID & govt. ID. (Aadhar card for quick 5 minutes ekyc) And bingo... We'll call you and give the loan as you want it in less than 30 minutes."

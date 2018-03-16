@@ -1,0 +1,52 @@
+name: Chooseproduct
+source:
+  - image: "appp.png"
+    headline: "App"
+    imagebottom: "play.png"
+    comments: "*Minimum 6 months college duration required"
+    link: "https://play.google.com/store/apps/details?id=com.redcarpetup.rewardpay&hl=en"
+    textbottom:
+    list:
+      - "Free to Use"
+      - "Upto 60k credit limit"
+      - "Order via App only"
+      - "Valid for <b>online</b> transactions only"
+      - "Build your credit score"
+      - "Valid for 3 Months only*"
+      - "Pay us back by cash or online wallets"
+      - "EMI Conversion available"
+      - "30 days Interest Free Credit"
+
+  - image: flashcard.png
+    headline: Flash Card
+    imagebottom: play.png
+    comments: "*Minimum 6 months college duration required"
+    link: "https://play.google.com/store/apps/details?id=com.redcarpetup.rewardpay&hl=en"
+    textbottom:
+    list:
+      - "Only ₹190"
+      - "Upto 60k credit limit"
+      - "Order on your own"
+      - "Valid for <b>online</b> transactions only"
+      - "Build your credit score"
+      - "Valid for your college tenure*"
+      - "Pay us back by cash or online wallets"
+      - "EMI Conversion available"
+      - "30 days Interest Free Credit"
+
+  - image: card.jpg
+    headline: Smart Card
+    imagebottom:
+    comments: "* Minimum 6 months college duration required"
+    link: /credit/flexi
+    textbottom: ORDER NOW
+    list:
+      - "Only ₹490"
+      - "Upto 60k credit limit"
+      - "Order on your own"
+      - "Valid for <b>both offline and online</b> transactions"
+      - "Build your credit score"
+      - "Valid for your college tenure*"
+      - "Pay us back by cash or online wallets"
+      - "EMI Conversion available"
+      - "30 days Interest Free Credit"

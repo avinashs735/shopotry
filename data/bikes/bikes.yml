@@ -1,0 +1,130 @@
+  name: bikes
+  A96ff126f: <a href="/credit/campus-ambassador">Careers</a>
+  A44097a8f: <a href="/credit/creditpay-card">Cards</a>
+  googlePlayButton: <a href="https://goo.gl/qwgz5z" style="color:white"><img src="/referral/img/play.png" class="play"></a>
+  A2b049638: <a href="https://twitter.com/RedCarpetUp" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
+  A7669e5fe: <a href="https://www.facebook.com/redcarpetup" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+  Abc197043: <a href="/about/">About Us</a>
+  Aaee07457: <a href="/location/">Contact Us</a>
+  A121c946a: <a href="#page-top"></a>
+  A91da2330: "<b>Giving treats to your friends? </b> <br> Your perfect <br>Cashless Pizza-Beer Party!!"
+  A57ff5d81: "<b>Going HOME!!</b> <br> Book your Flight or train tickets"
+  Ac5d8e982: <span class="sr-only">Toggle navigation</span> <i class="fa fa-bars"></i>
+  A8f7f4c1c: "About"
+  A9639e32c: "Apply"
+  A8dfb117f: "Around the Web"
+  Ad8156ae7: "Down-Payment : &#8377;  "
+  A28ed8648: "Dying for your Dream Gadgets like <br> <b>Mobiles/Speakers/Appliances</b>"
+  Ac2694e57: "Pay Back Period :  "
+  A207f16d0: "Have to pay <b>College Mess fee</b> <br> Just tell us and we’ll pay for you"
+  A9c89af88: "Loan Amount : &#8377;  "
+  A2b24559e: Live your Dreams with Redcarpet's <i>"Khushiyon ke Credits"</i>
+  Ace5bf551: "Location"
+  A7c0ac50e: "redcarpet"
+  A7f5e060a: "Bikes | RedCarpet"
+  Ac55003a2: "We are all about empowering you. By building a better credit and lending infrastructure we want to enable more people to access credit. If more people have access to credit then, they can buy what they want today, without having to wait for the cash to flow in immediately and pay us back later. Our company is built on a foundation of believing in people, believing in their integrity and building technology around that belief. "
+  Acd7dacee: "YOU ALWAYS WANTED IT, AND NOW, THERE’S NO STOPPING YOU."
+  Adb8ff484: "Second Floor, Plot A, Khasra 360, <br> Near Indian Bank, Behind Centrum Mall,<br> Sultanpur Metro Station -110030"
+  Af3a29486: "Steps"
+  A92b87e5c: "T&C"
+  A6c719555: "Toggle navigation"
+  A44d2fd49: "Select your payment option"
+  Ad7a503fa: "Our mission - to expand credit access to the next billion users with the help of mobile tech and utilising the power of AI. Today we are operational only in Delhi. But soon we’ll be everywhere.  "
+  A70debe80: "If there is a bike you want, we will help you get it. You can pay us back in easy EMIs."
+  A798u9899 : " &nbsp; Months"
+  A8ffh9089 : "To be eligible you must be at least 18+ years of age and a regular college student studying in Delhi NCR region."
+  A8hfef90: "Final year students, pursuing both graduation or post-graduation, should have at least 6 months of the academic year left to be eligible to use RedCarpet."
+  A8984577: "MONTHLY EMI"
+  A7876098: "ORDER NOW"
+  Afe98930: "Terms & Conditions"
+  A7876096: "<li>If you are already a RedCarpet user, just fill the form and we will get back to you after approving your request!</li>"
+  A91da2430 : "<li>If you are new to RedCarpet, then all you need to do is </li>"
+  pageTitle: "Bikes | RedCarpet"
+  navigationToggle: <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+  links:
+    - title: About Us
+      url: /about/
+
+    - title: Cards
+      url: /credit/creditpay-card
+
+    - title: Careers
+      url: /credit/campus-ambassador
+
+    - title: Contact Us
+      url: /location/
+  Heading: "YOU ALWAYS WANTED IT, AND NOW, THERE’S NO STOPPING YOU."
+  SubHeading: "If there is a bike you want, we will help you get it. You can pay us back in easy EMIs."
+  paymentHeading: "Select your payment option"
+  formOptions:
+    - title: "Loan Amount : &#8377;  "
+      spanId: show_amount
+      spanCaption: ""
+      inputId:
+      value: 30000
+      min: 30000
+      max: 100000
+      step: 5000
+      oninput: showAmount(this.value)
+
+    - title: "Down-Payment : &#8377;  "
+      spanId: show_down
+      spanCaption: ""
+      inputId: test
+      value: 1000
+      min: 1000
+      max: 60000
+      step: 1000
+      oninput: showDown(this.value)
+
+    - title: "Pay Back Period :  "
+      spanId: show_months
+      spanCaption: " &nbsp; Months"
+      inputId:
+      value: 6
+      min: 6
+      max: 24
+      step: 3
+      oninput: showMonth(this.value)
+  amountTitle: "Loan Amount : &#8377;  "
+  downTitle: "Down-Payment : &#8377;  "
+  paybackPeriod: "Pay Back Period :  "   
+
+  buttonCaption: "MONTHLY EMI"
+
+  OrderSectionHeading: "ORDER NOW"
+
+  textSection:
+    - heading: Steps
+      points: |
+              1. If you are already a RedCarpet user, just fill the form and we will get back to you after approving your request!<br>
+                 If you are new to RedCarpet, then all you need to do is [download](http://redc.pt/app) the app and register yourself by submitting a photocopy of your Student ID and address proof.<br/>
+                 After registration just fill the form above to order your spanking new ride!
+              2. If you need any help don't hesitate to [call us at 011-30506200](tel:+91-11-30506200) or [email us](mailto:support@redcarpetup.com).
+
+    - heading: TERMS & CONDITIONS
+      points: |
+              1. To be eligible you must be at least 18+ years of age and a regular college student studying in Delhi NCR region.
+              2. Final year students, pursuing both graduation or post-graduation, should have at least 6 months of the academic year left to be eligible to use RedCarpet.
+
+  aboutSection:
+    Heading: ABOUT
+    para1: We are all about empowering you. By building a better credit and lending infrastructure we want to enable more people to access credit. If more people have access to credit then, they can buy what they want today, without having to wait for the cash to flow in immediately and pay us back later. Our company is built on a foundation of believing in people, believing in their integrity and building technology around that belief.
+    para2: Our mission - to expand credit access to the next billion users with the help of mobile tech and utilising the power of AI. Today we are operational only in Delhi. But soon we’ll be everywhere.
+
+  purpleSection:
+    leftHeading: Location
+    leftPara: Second Floor, Plot A, Khasra 360, <br> Near Indian Bank, Behind Centrum Mall,<br> Sultanpur Metro Station -110030
+    socialHeading: AROUND THE WEB
+    socialButtons:
+        - icon: facebook
+          url: https://www.facebook.com/redcarpetup
+        - icon: twitter
+          url: https://www.twitter.com/redcarpetup
+        - icon: instagram
+          url: https://www.instagram.com/redcarpetup
+  footer:
+    copyright: Copyright &copy; RedCarpet Tech Pvt Ltd.
+    links:
+      - faq
+      - legal

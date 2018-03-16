@@ -1,0 +1,28 @@
+section.notice {
+    padding-bottom: 4%!important;
+}
+
+.textContainer {
+    margin: 20px auto;
+}
+.notice .textContainer {
+    padding-bottom: 30px;
+    border-bottom: 1px solid #27B59F;
+}
+section.faqs {
+    padding-top: 0!important;
+    padding-bottom: 5%!important;
+}
+h4.panel-title{
+    color: #333;
+    font-weight: 1000;
+}
+.textContainer h3{
+text-align: center
+}
+.textContainer p{
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+}

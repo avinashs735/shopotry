@@ -1,0 +1,19 @@
+bannerHeading: Buy anything from e-commerce websites in easy installments.
+bannerSubHeading: No bank account or credit card required. Pay back in easy installments &mdash; including cash!
+whiteSection:
+  Heading: What can you do with **RedCarpet**?
+greySectionHeading: We support the following partners and hundreds more!
+work: So how does it work?
+worksteps:
+  - caption: Download the app. Use it like Whatsapp to chat with us.
+    imageSrc: smartphone.svg
+  - caption: Upload verification documents and get your credit limit.
+    imageSrc: files.svg
+  - caption: Tell us your order (using chat) and confirm your contract by phone.
+    imageSrc: telemarketer.svg
+  - caption: Receive your order in days. Shipping is handled by our ecommerce partners!
+    imageSrc: shipping.svg
+  - caption: Pay monthly using cash or online banking.
+    imageSrc: wallet.svg
+studentHeading: Students Love RedCarpet
+studentSubHeading: See some of their stories!

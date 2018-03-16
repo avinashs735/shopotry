@@ -1,0 +1,32 @@
+.blues-section {
+    background: #43b889;
+    display: flex;
+    justify-content: center;
+}
+.orange-section {
+    background-color: white;
+}
+.iss {
+    color: #666;
+    font-weight: bolder;
+    font-family: 'Montserrat';
+}
+
+.ims {
+    max-height: 250px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+     align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+.green-section {
+    background-color: #44276c;
+}
+.subhe {
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+}

@@ -1,0 +1,274 @@
+html,body{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    font-family: 'Montserrat', sans-serif;
+  }
+  h1,h2,h3,h4
+  {
+    font-family: 'Montserrat', sans-serif;
+  }
+  h5,h6
+  {
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  section.intro div.textContainer:last-child
+  {
+    border-bottom: 1px solid #27B59F;
+  }
+  section#job-listing
+  {
+      padding-top: 0px;
+  }
+  a#openingsBtn
+  {
+    margin: 10px auto;
+    display:block;
+    width:200px;
+    background-color: #43B889;
+  color: white;
+  background-image:none;
+  }
+  div.inline-para
+  {
+    border-top: 1px solid #27B59F;
+    padding: 30px 0;
+  }
+  div.textContainer
+  {
+    padding-bottom: 3%;
+  }
+  
+  div.inline-para:last-child
+  {
+    margin-left: 9%;
+  }
+  
+  ul#jobs li
+  {
+    float:none;
+  }
+  
+  ul#jobs li.active a
+  {
+  
+    color: #27B59F;
+  }
+  ul#jobs li a{
+    background-color: inherit;
+    color: #989797;
+  }
+  
+  ul#jobs li[role="presentation"]
+  {
+    list-style-position: inside;
+    list-style-type: disc;
+  
+  }
+  ul#jobs li[role="presentation"] a
+  {
+    display: list-item;
+  }
+  /*ul.presentation
+  {
+    list-style-type: disc;
+  }
+  
+  ul.presentation li{
+    display: list-item;
+  }*/
+  
+  .infoSections
+  {
+      width: 80%;
+      margin: 20px auto;
+      color:#666666;
+  }
+  .sectionContainer
+  {
+    background-color: #f8f8f8;
+    margin: 20px auto;
+    position:relative;
+    padding:25px 50px;
+    border-radius: 25px;
+  }
+  .infoSections .content
+  {
+    display:inline-block;
+    width:50%;
+    vertical-align:middle;
+    margin:20px;
+  }
+  
+  .infoSections .imageBox
+  {
+    display:inline-block;
+    width:40%;
+    vertical-align: middle;
+    margin:20px;
+    height:250px;
+    text-align:center;
+  }
+  .sectionContainer:nth-of-type(even) .content
+  {
+  
+    float:right;
+    display:inline-block;
+  }
+  .sectionContainer:nth-of-type(even) .imageBox
+  {
+  
+    float:left;
+    display:inline-block;
+  }
+  .clearfix{
+    clear:both;
+  }
+  .infoSections .imageBox img
+  {
+    border-radius: 15px;
+    height:100%;
+    width:auto;
+  }
+  
+  .infoSections .sectionContainer ul
+  {
+    list-style-type: disc;
+    margin-left: 40px;
+  }
+  .infoSections .sectionContainer li
+  {
+    display:list-item;
+  }
+  ul#jobs li h4
+  {
+    color: #989797;
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  div.tab-pane h3
+  {
+    color: #989797;
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  section#job-listing div.textContainer:last-child {
+      border-bottom: none;
+  }
+  @media(max-width:768px)
+  {
+    section.intro:first-of-type
+    {
+      padding: 3% 10%;
+    }
+    div.inline-para
+    {
+      width: 80%;
+    }
+    div.inline-para:last-child
+    {
+      margin-top: 2%;
+      margin-left: 0;
+    }
+    section#job-listing .textContainer .row .col-sm-4
+    {
+      background-color: #F1F1F1;
+      margin: 30px auto;
+    }
+    .infoSections
+    {
+        width: 100%;
+        margin: 20px auto;
+        color:#666666;
+    }
+    .sectionContainer
+    {
+      background-color: #f8f8f8;
+      margin: 20px auto;
+      position:relative;
+      padding:20px;
+      border-radius: 25px;
+      height:auto;
+    }
+    .infoSections .content
+    {
+      display:block;
+      width:100%;
+      vertical-align:middle;
+      margin:0px;
+    }
+  
+    .infoSections .imageBox
+    {
+      display:block;
+      width:250px;
+      vertical-align: middle;
+      text-align:center;
+      margin:auto;
+    }
+    .sectionContainer:nth-of-type(even) .imageBox
+    {
+  
+      float:none;
+    }
+    .infoSections .imageBox img
+    {
+      border-radius: 15px;
+      width:100%;
+      height:auto;
+    }
+  
+  }
+  .insta-banner{
+    margin-right: -4px;
+    width: auto;
+    height: 200px;
+  }
+  .image-container{
+    text-align: center;
+    width:100%;
+  }
+  .carControl{
+    color: white;
+  }
+  #myCarousel{
+    margin: 3%;
+  }
+  .carousel-control{
+    opacity: 1;
+  }
+  
+  @media(max-width:450px)
+  {
+    .image-container{
+      text-align: center;
+      width:100%;
+      white-space: nowrap;
+      display:none;
+    }
+    .insta-banner{
+      margin-right: -4px;
+      display:inline-block!important;
+      width: auto!important;
+      height: 150px!important;
+  
+    }
+  }
+.insta-banner {
+    margin-right: -4px;
+    width: auto;
+    height: 200px;
+}
+section.intro {
+    text-align: left;
+    padding-top: -1%;
+   padding-left: 25%;
+   padding-right: 25%;
+   padding-bottom: 1%;
+   color: #666666;
+ }
+      

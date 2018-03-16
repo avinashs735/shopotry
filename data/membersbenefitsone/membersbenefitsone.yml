@@ -1,0 +1,17 @@
+name: Membersbenefitsone
+source:
+  - image: mb_1.png
+    headline: Monitor Your Score
+    description: Regular online access to your Credit Score and Report
+
+  - image: mb_2.png
+    headline: Start Building your Credit Score
+    description: RedCarpet helps you build your credit score for free.
+
+  - image: mb_3.png
+    headline: Apply for Credit Card
+    description: Customised pre-approved credit and credit card offers at competitive prices
+
+  - image: mb_4.png
+    headline: Share Remarks with Lenders
+    description: Ability to share remarks with lenders on the data reported on your credit report

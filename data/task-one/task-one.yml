@@ -1,0 +1,43 @@
+
+name: taskOne
+dummy:
+  heading: Task 1  - Let's socialize 
+  text: |
+        This task is all about us getting to know you and you get to know us.
+
+        Each task earns you goodies, rewards, and a key learning. 
+
+        You have 1 Day to finish this task. All the best :)
+
+tasks:  
+  apphead: 1 . Download Redcarpet app and become a user.
+  
+  apppoints:
+    appone: Submit/Upload your documents (Student ID card and Aadhar card) on the app.
+    apptwo: Check out this as an example of how to view your status  in app.
+    appthree: Attach a screenshot of your current status of the application in app in the form.
+
+  playstore: 2 . After you have downloaded our app, go to Google Playstore and review our app. Please write about your experience of using the app, and not about the internship.  
+  
+  socialhead: 3 .  Like/Follow the social handles,
+
+  socialpoints:
+    socialone: Facebook -
+    socialtwo: Instagram - 
+
+  joinhead: 4 . Request our FB group to interact with your peers and for any official/unofficial discussions. 
+
+  joinpoints:
+    joinone: Request Facebook Group 
+    jointwo: Or go here - 
+
+  
+
+  mention: 5 . Mention yourself as a Campus Leader working with Redcarpet on your **Facebook and LinkedIn** handles. Yes, let's make it official, the world needs to know about our relationship, share the status given below on **Facebook** timeline.
+
+  proceed: 6 . Once you have completed the above, let us know by clicking the 'Proceed' button. Link to Task 2 will appear once you have submitted Task 1 or you can even access Task 2 through the email we will send. 
+  
+contact:
+   heading: Get in touch
+   email: Write to us at  saif.aslam@redcarpetup.com & rohit.madan@redcarpetup.com
+   phoneno: Phone - +91-7838836421 & +91-8076314743 

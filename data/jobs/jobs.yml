@@ -1,0 +1,165 @@
+- heading: "Collage"
+  images:
+   -  img: image_1.jpg
+      desc: 
+        -  name: abs
+           demo: pps  
+   -  img: image_2.jpg
+   -  img: image_3.jpg
+   -  img: image_4.jpg
+   -  img: image_5.jpg
+   -  img: image_6.jpg
+   -  img: image_7.jpg
+   -  img: image_8.jpg
+   -  img: image_9.jpg
+   -  img: image_10.jpg
+   -  img: image_11.jpg
+   -  img: image_12.jpg
+   -  img: image_13.jpg
+   -  img: image_14.jpg
+
+- heading: YOU WILL ALWAYS HIRE AND WORK WITH PEOPLE SMARTER THAN **YOURSELF**
+  text: At RedCarpet we’re made of brilliant geeks, confident professionals, fearless innovators and boundless foodies. Our team is made up of smart, passionate, and all-around awesome people hailing from a wide variety of backgrounds. We’re beginning to grow our company in the heart of New Delhi (and soon all over India)… and trying to establish our culture of innovation across the Indian subcontinent. The founders bring in almost 2 decades of combined experience in building startups, writing code, deep analytics and CXO leadership at top-3 ecommerce players in India and abroad. Our investors are some of the best in the world.
+
+- heading: Works at RedCarpet
+  sections:
+   -  head: A typical day at work.
+      image: /redcarpetcom/Jobs/room.jpg
+      text: 
+        - content: You will come into office fresh in the morning and grab a cup of coffee. We discourage coming into office late, and working till midnight. We only work late during crunch releases. We consider it a failure if we have to work weekends… but we do not complain if we have to get that critical release out. We realize that Google and Tesla was never built by 9 to 5 ers. We never check Facebook or Instagram in office - we would rather put in solid hours of work and go for a Crossfit session in the evening, than waste time and work till midnight. We encourage you to put your head down and [take a nap when you want].Snoring is discouraged. 
+          links: 
+            - data: 
+              token: 
+              url: 
+
+   
+   -  head: Work with the best.
+      image: /redcarpetcom/Jobs/work_with_best.JPG
+      text: 
+        - content: You will always hire and work with people smarter than yourself. We’re looking for people who are unafraid to compete with big name universities and fancy titles… and are excited to build something entirely new. We want people who are fearless and hungry.On the technology front, you’ll be working with our data science stack, our mobile apps as well as our web services. You will be unafraid to rewrite the entire python code because cProfile showed list comprehension is slowing down a batch operation on a machine with 256 mb RAM. You will inspect bytecode to realize that “BUILD_LIST” is being called way too many times.   
+          links: 
+            - data:  
+              token: 
+              url: 
+
+
+   -  head: What we look for?
+      image: /redcarpetcom/Jobs/passion_for_work.JPG
+      text: 
+        - content: "We **NEVER** hire based on college degrees or where you went to college. For our technology positions, your github or kaggle profile outranks your college degrees. In fact, we have proudly hired and work with people who dont have college degrees. For non-technology positions, you have to be extremely competent in your area of expertise and will need to be extremely hands on.We do have a few top pre-reqs in order to be considered as a -Ownership & Taking initiative-Empathy and Making Friends Passion for food and an interesting taste in music-Courage  Are you afraid to learn a few framework ?At RedCarpet, we expect everyone to be collaborative, polite, extremely motivated and smart. We continually push ourselves and each other to be better. Above all, we passionately believe that you should be inspired by and enjoy being around the people you work with.Our investors include Twitch.tv founder (and YCombinator superstar) Justin Kan, Y Combinator, Google Launchpad and others." 
+          links: 
+            - data:  
+              token: 
+              url: 
+
+
+   -  head: Values that we live by.
+      image: https://www.instagram.com/p/BT_Gr2EAKQo/media/?size=l
+      text: 
+        - content: "There are certain beliefs that are the core foundation of a person, these are the rules that you live by.This is what we believe in at RedCarpet. This is our *culture-fit* "
+          links: 
+            - data: Relentless - like a 
+              token: Honeybadger
+              url: https://www.youtube.com/watch?v=M0wi7Ugct1w
+            - data: Trust, low-ego  - Learn to 
+              token: Disagree and Commit
+              url: https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm
+            - data: Move fast and break things
+              token:
+              url:
+            - data:  Everyone is hands on. No exceptions.
+              token:
+              url:
+   -  head: Perks
+      image: https://www.instagram.com/p/BT3G9IDA2Dq/media/?size=l
+      text: 
+        - content: There are some things we dont negotiate on.
+          links:
+            - data:  Competitive salary 
+              token:
+              url:
+            - data:  Early-stage equity
+              token:
+              url:
+            - data:  Pizza, coffee and beer
+              token:
+              url:
+            - data:  Contribution matching
+              token:
+              url:
+            - data: Strict culture of meritocracy
+              token:
+              url:
+            - data:  Open source contributions  
+              token:
+              url:
+- name: Current Job Openings at RedCarpet
+  branch:
+   -  profile: Credit and Risk
+      job:
+        - jobId: Credit and Risk
+          quali: 
+          description: 
+          headingJobId: hj1
+          collapsejobId: cj1
+          link: 
+          
+      headingId: headingOne
+      collapseId: collapseOne 
+   -  profile: Data Sciences
+      job:    
+        - jobId: Data Engineer
+          quali: "Some of the most incredible programmers I’ve known don’t have pretty resumes, so we have no “minimum” requirements for degrees. We’re also hyper-equal-opportunity: quality work knows no bounds for race, gender, nationality, sexual orientation, or religion. If you love your work and breathe code, we’ll do amazing things together, no matter who, what, or where you are. We do put a very high premium on your past work - and especially your github and play store portfolio. Please do not forget to send that in.A data architecture engineer must have a working knowledge of R or Pandas/Numpy. An experience with Spark or Scikit will be great. The best data architecture engineers will be magical in their ability to translate math and statistics into code. A Kaggle profile will be awesome!"
+          description: "The best, world-class data science teams are built with two kinds of people working together - the theoretical data scientist and the data science engineers+architects. While the “scientists” ponder all day and come up with interesting algorithms.. the data architecture team is the one that can translate (or fight) this algorithm into a world-class, production architecture. The way we think about the data engineering team is that you must look up to Doug Cutting who is the creator of Hadoop and Lucene.. two of the biggest and most transformative data science engines. Doug did not invent the “Map Reduce algorithm”, but certainly did as much for data science as any scientist did.
+          Just like Designers and Engineers - both the data scientists and data engineers need to work together to build a world data science team.
+          You must be the kind of engineer that will be a Doug Cutting at RedCarpet. Your job ? To transform the real-life impact of data science - which ends up being more important than dreaming of some algorithm."
+          headingJobId: hj2
+          collapsejobId: cj2
+          link: https://www.hackergully.com/jobs/6
+          
+      headingId: headingtwo
+      collapseId: collapsetwo
+   -  profile: Design
+      job:    
+        - jobId: Design Leaderssss
+          quali: "We would really love for you to have a behance or dribbble profile… or some sort of a portfolio. Please do send it to us."
+          description: "Our company motto is “We believe in you” - we create technology to build foundations of trust-based finance. We want you to bring that emotion to the front.
+          Lending and Credit are extremely complex processes. Making sure that users journey through the heavy-duty onboarding (with lots of documents and data) is as fun and joyful as possible. We also need to make this happen anytime and anywhere… which means that this needs to happen on a smartphone form factor.Combine that with our completely path-breaking Whatsapp-like approach to lending …. we have pretty much thrown the design rulebook out of the window. We want you to be someone who writes the new rulebook.You will run End-to-end execution  Develop process flows, wireframes, mockups and all graphic components. Design the UI architecture, interface, and interaction flow of mobile apps
+          Leadership - Conduct usability studies and user interviews. Please be prepared to own Google Analytics and Mixpanel feedback. You will be part of the leadership of the product team."
+
+          headingJobId: hj3
+          collapsejobId: cj3
+          link: https://www.hackergully.com/jobs/5
+          
+      headingId: headingthree
+      collapseId: collapsethree  
+   -  profile: Engineering & Product
+      job: 
+        - jobId: Senior Android Engineer
+          quali: "Some of the most incredible programmers I’ve known don’t have pretty resumes, so we have no “minimum” requirements for degrees. We’re also hyper-equal-opportunity: quality work knows no bounds for race, gender, nationality, sexual orientation, or religion. If you love your work and breathe code, we’ll do amazing things together, no matter who, what, or where you are. We do put a very high premium on your past work - and especially your github and play store portfolio. Please do not forget to send that in."
+          description: "Our Android stack is fairly exciting - we use a lot of reactive and functional programming with RxJava and Retrolambda. We are gradually adopting Kotlin (P.S. we are waiting for it to embrace RxJava completely). We constantly think of tradeoffs between power consumption responsiveness and clean code. We love experimenting with UX and responding to changes in customer behavior. We have grown 10X in the past three months and are continuing to grow as fast.We are looking at someone to come and be part of the senior team in the Android engineering effort. We have grown enough (and fast enough!) that we need someone better than us to build stuff the right way. You will pretty much be part of the founding engineering team and will get to redefine how a world class mobile fintech company gets built in India.You will be passionate about clean code and love writing testcases (yes - we believe that design for testing is the best way to design architecture). It doesnt matter if you dont know RxJava or any of this stuff … show us that you can learn fast enough.We dont care about years of experience - what we care about is what you can pull off !! Show us your Github.. it is the easiest way to have a conversation."
+          headingJobId: hj4
+          collapsejobId: cj4
+          link: https://www.hackergully.com/jobs/3
+        - jobId: Technical Architect
+          quali: "Some of the most incredible programmers I’ve known don’t have pretty resumes, so we have no “minimum” requirements for degrees. We’re also hyper-equal-opportunity: quality work knows no bounds for race, gender, nationality, sexual orientation, or religion. If you love your work and breathe code, we’ll do amazing things together, no matter who, what, or where you are.I dont want to put in a “years of experience” as a filter - but from a level of competency and maturity perspective, I am looking at a 4-6 yea###rs signaling. We do put a very high premium on your past work - and especially your github and play store portfolio. Please do not forget to send that in."
+          description: "Our backend tech stack uses Redis, Celery, Flask, Python, Docker, Postgres and Scikit. You will also end up touching a whole bunch of ReactJs for our internal webapps.
+          We plan to build a stack that is scalable and builds on top of technologies like Kubernetes, PySpark, Luigi, AWS Lambda, Kafka, Gevent and Asyncio. We are looking for you to architect that.
+          We were looking for someone to join us as our Technology Architect and join us on this incredible adventure.we’re looking for someone with a strong architectural and hacker background and willing to stand their ground and fight for what they believe is best - but be able to be pleasant while dealing with people. An engineer in this role is expected to design, build, deploy, and manage systems from scratch. You will wear multiple hats of “architect”,  ”tester” or “debugger” … everyone is expected to build systems from scratch.   This means that you will need to learn, ideate and innovate on various layers across the stack… and that comes with a tremendous amount of learning."
+          headingJobId: hj5
+          collapsejobId: cj5
+          link: https://www.hackergully.com/jobs/4
+          
+      headingId: headingfour
+      collapseId: collapsefour	   
+   -  profile: Operations
+      job: 
+        - jobId: Operations
+          quali: ""
+          description: ""
+          headingJobId: hj6
+          collapsejobId: cj6
+          
+          
+      headingId: headingfive
+      collapseId: collapsefive	   

@@ -1,0 +1,120 @@
+title: about
+bannerText: "Our mission: to make credit available to the next billion users." 
+intro:
+  heading: WE ARE THE CRAZY ONES WHO BELIEVE IN YOU!
+  text: |
+          RedCarpet lends to customers in India to finance their online purchases - ecommerce, travel,
+          etc. In India, credit and finance companies are able to service less than 3% of the customer
+          base because there is no data, no widespread credit bureaus to profile and score customers.
+          RedCarpet has access to much more data, including data on your mobile phone. We use this
+          data to service customers who never had any access to credit before.
+
+          90% of ecommerce in India is cash on delivery. That is almost 4 billion USD of credit floating
+          around - but not managed and packaged as credit and risk. What it means is that we are
+          building structure around something that already happens at a large scale in India... just not
+          built right.
+
+          By building better credit & lending infrastructure, we want to enable more people to access
+          credit. Our job starts BEFORE you start using a payment gateway or a wallet - we believe the
+          basic problem in the trillion dollar Indian economy is access to liquidity. Our aim is to expand
+          the credit economy — simply replacing the legacy credit providers/banks would probably be a
+          great business success, but it's not all that interesting as a goal.
+gallery:
+  group1:
+    heading: RESIDENT GURU
+    images:
+      - name: NAFTALI HARRIS
+        image: naftali.jpg
+        job: DATA SCIENCE
+  group2:
+    heading: INVESTORS
+    images:
+      - name: SANJAY SURI
+        image: sanjay-suri.jpg
+        job: FOUNDER CEO TECHNOCRAT
+      - name: JUSTIN KAN
+        image: justin-kan.jpg
+        job: TWITCH.TV YCOMBINATOR
+      - name: PRAFULLA KRISHNA
+        image: prafulla-krishna.jpg
+        job: CEO COSEER
+      - name: ADITI SREENIVASAN
+        image: aditi-sreenivasan.jpg
+        job: INVESTOR
+      - name: KRISHNAPREM BHATIA
+        image: krishnaprem-bhatia.jpg
+        job: ORACLE
+      - name: JUSTIN SULLIVAN
+        image: justin-sullivan.jpg
+        job: SHINRYOKU
+      - name: AMAR UMAP
+        image: amar-umap.jpg
+        job: INVESTOR
+      - name: BALAJI BHASHYAM
+        image: balaji-bhashyam.jpg
+        job: INVESTOR
+
+  group3:
+    heading: VENTURE CAPITAL
+    images:
+      - name: Google
+        image: googlelaunch.svg
+        job: Google
+      - name: Ycombinator
+        image: ycomb.svg
+        job: YCOMBINATOR
+team:
+  heading: TEAM
+  images:
+    - name: Abhay Tamaria
+      image: abhay_new.jpg
+      bio: "yes"
+    - name: Kartik Venkataraman
+      image: kartik.jpg
+      bio: "yes"
+    - name: Sandeep Srinivasa
+      image: sandeep.jpg
+      bio: "yes"
+      profile:
+        - platform: twitter
+          link: https://twitter.com/sandgorgon1
+        - platform: github
+          link: https://github.com/sandys
+        - platform: linkedin
+          link: https://linkedin.com/in/sandeepss
+    - name: Balram Pandey
+      image: balram_new.jpg
+      profile:
+        - platform: github
+          link: https://github.com/balrampandey19
+        - platform: linkedin
+          link: https://linkedin.com/in/balram-pandey-2606a854
+    - name: Rajhans Jadhao
+      image: rajhans_new.jpg
+      profile:
+        - platform: linkedin
+          link: https://linkedin.com/in/rajhans-jadhao-ba9aa383
+    - name: Ananth Venkatesh
+      image: ananth_new.jpg
+      profile:
+        - platform: linkedin
+          link: https://linkedin.com/in/ananth-venkatesh-7223247a
+    - name: Raghav Sharma
+      image: raghav_new.jpg
+      profile:
+        - platform: github
+          link: https://github.com/raghavpro
+    - name: Raghuver
+      image: raghuver.jpg
+    - name: Yasir
+      image: yasir.jpg
+    - name: Rashmi
+      image: rashmi.jpg
+    - name: Deeksha
+      image: deeksha.jpg
+    - name: saif
+      image: saif.jpg
+    - name: Swagat
+      image: swagat.jpg
+    - name: Chandan
+      image: chandan.jpg   

@@ -1,0 +1,62 @@
+/* THis is contact css */
+section.location-page {
+    padding: 50px 80px;
+    color: #666666;
+    text-align: left;
+}
+.locationIframe iframe
+{
+  height:500px;
+}
+@media (max-width: 768px)
+{
+  .locationIframe iframe
+  {
+    height:300px;
+  }
+  section.location-page
+  {
+    padding: 0px;
+  }
+  section.location-page div:last-of-type
+  {
+        margin-top: 50px;
+        margin-bottom: 50px;
+  }
+  section.location-page h3
+  {
+    margin-top:20px;
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 414px)
+{
+  section.location-page
+  {
+    padding: 30px;
+
+  }
+  section.location-page div:last-of-type
+  {
+    margin-top:20px;
+    margin-bottom:20px;
+  }
+
+}
+
+ol{
+  margin-left: -10px;
+}
+
+.directions li{
+  display: list-item !important;
+}
+
+div .text{
+  font-size: 14px;
+}
+
+.contactDiv{
+  margin-top: 3.6%;
+}

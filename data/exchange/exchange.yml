@@ -1,0 +1,38 @@
+title: Exchange Program
+bannerHeading: |
+                Sell old appliances<br><br>
+                Buy new stuff<br><br>
+                Zero down-payments!
+links:
+  - title: ABOUT US
+    href: /about/
+  - title: CARDS
+    href: /credit/creditpay-card
+#  - title: <img src="/bookmyshow/img/play.png" class="play">
+#    href: https://goo.gl/qwgz5z
+intro:
+  heading: GET RID OF THE OLD, GET ON WITH THE NEW.
+  text: |
+        Now with RedCarpet you can replace your old, outdated or broken electronic devices and buy a
+        swanking new one. That too without burning a hole in your wallet!
+
+        Just sell your old device, use the money you get from selling it as a downpayment for your new
+        device and RedCarpet will pay the difference. Pay us back in easy EMIs. It’s that simple.
+steps:
+  heading: Want to Sell? Follow these steps
+  steps:
+    - heading: Get in touch to replace device
+      image: get_in_touch.png
+      text: If there is a device that you want to get exchanged, first step is to contact us to tell us about it.
+            You will need to fill up the form below for this.
+    - heading: Schedule a free evaluation and pick-up.
+      image: schedule.png
+      text: Once you have let us know our agent will come to you to evaluate the device, fix a price for it
+            and pick it up for the exchange.
+    - heading: Select an EMI plan
+      image: emi.png
+      text: After figuring out how much you can sell your device for, which will also be your down payment,
+            select an EMI plan for the new device.
+    - heading: Place order for replacement
+      image: place_order.png
+      text: Now you are all set to place your order for a new device with RedCarpet. Enjoy!

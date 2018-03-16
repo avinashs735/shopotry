@@ -1,0 +1,76 @@
+name: campus_ambassador
+firstheadline: "What is RedCarpet?"
+text: "Redcarpet is an initiative for the benefit of students and we lend for any online purchase
+      that a student requires, be it enjoying a popcorn tub at cinemas or travelling to the Himalayas.
+      We pre-pay and book for any online services that the customer wishes for.<br>
+      We provide credit to students by paying in advance for their real time needs and no-interest
+      repayment option of 1 month and only 2% post that. We believe in fulfilling the present with our
+      “Khushiyon Ke Credits”.<br>No collateral, no security, just verify yourselves on our application by submitting your identification proof, student-ID and a selfie to get instant credits for your orders. <br>We promise to fulfill your wishes, all you need to do is download, upload, write and receive!"
+whatyougetheading: What do you get?
+stipend: Stipend
+firstlist: 3-8k
+growsubheading: Grow your Resume
+list:
+      - Recognition Certificate
+      - Recommendation on LinkedIn
+otherbenefits: Other benefits include
+listtwo:
+      - "Skill Enhancement: Marketing, Communication"
+      - "Corporate Exposure: Work experience"
+      - Grow your network and make more contacts
+whattodoheading: What do you have to do?
+listthree:
+      - Help create a user acquisition strategy for your university community.
+      - Spread the word across your campus, clubs and societies.
+      - Create brand awareness offline and online in your community.
+      - Provide feedback on how to make operations of Redcarpet even better.
+      - Take a note of the experience of regular users through feedback forms.
+      - Help us in overall Personality Assessment of a Redcarpet user.
+      - Your performance will decide your promotion of becoming a Campus Brand Manager.
+      - "Min. Duration: 1 month"
+note: "Note: The intern will have to come office once a week to submit his/her weekly report and
+        feedback. Our office is only 2 minute walking distance from Sultanpur Metro Station."
+steps:
+      - text: Say you sell 15 cards a week, at the rate of ₹300 a card.
+        image: Card-Sell.jpg
+      - text: Payout for this sale is number of cards sold &#215; half cost price, <br>i.e. 15 &#215; 150 = ₹2250
+        image: Card-Sell-2.jpg
+      - text: Now bonus for 10 cards is ₹1000 and bonus for selling 5 cards is ₹300
+        image: Card-Sell-3.jpg
+      - text: If you are the highest seller in the week you also get ₹3000.
+        image: Card-Sell-4.jpg
+      - text: Total weekly payout = Bonus for selling cards (₹1300) + Weekly payout (₹2,250) + Weekly prize (₹3000) = ₹6,550
+        image: Card-Sell-5.jpg
+      - text: Which means total monthly payout will be<br> ₹ (6550 &#215; 4) + 5000 = ₹31,200
+        image: Card-Sell-6.jpg
+      - text: To reach the final destination you need to sell 500 cards, which according to the above estimate will take 8months.
+        image: Card-Sell-7.jpg
+      - text: This means if card sales are consistently done, in 8 months your total payout will be<br> ₹ (31,200 &#215; 8) = ₹2.5 lakh (approx.)
+        image: Card-Sell-8.jpg
+      - text: Add to this the value of the gifts you receive at the 3 milestones. Sell 100 cards = 1st milestone = get a Fitbit worth ₹12,000
+        image: Card-Sell-9.jpg
+      - text: Sell 250 cards = 2nd milestone = get an iwatch worth ₹25,000
+        image: Card-Sell-10.jpg
+      - text: Sell 500 cards = 3rd milestone - get an <span style="font-weight:bold;">iPhone</span> worth ₹60,000
+        image: Card-Sell-11.jpg
+      - text: Total earning = total payout + 1st milestone + 2nd milestone + 3rd milestone = 3.5lakh!
+        image: Card-Sell-12.jpg
+      - text: Hurray!
+        image: Card-Sell-13.jpg
+
+intro: Welcome to Campus Ambassador Program.Represent RedCarpet in your College. Earn upto ₹15000/month 
+
+stepone: How to become the Ambassador of Your college.
+pointone: "Step 1: [Download](redc.pt/app) RedCarpet app."
+pointtwo: "Step 2: Upload all the required documents (Selfie, Aadhaar, College ID etc.)"
+pointthree: "Step 3: Upload an additional document (Current Address Proof - Electricity Bill / Rent Agreement / Hostel ID / PG Fee slip etc.)"
+pointfour: "Step 4: Complete the E-Sign process on the app." 
+
+noteone: "***Note:*** After Completing the above steps,You will recieve a unique referral code."
+notetwo: "***Note:*** Once your Verification is completed.You can start Referring and Earning."
+
+steptwo: How to refer your friends.
+pointsone: "Step 1: Refer RedCarpet to your friends. Tell them how it can help them purchase important things even without cash."
+pointstwo: "Step 2: When they download the app, use your unique referral code in referral code section on app."
+pointsthree: "Step 3: Then Your friend has to enter the referral code in the signup page of app."
+pointsfour: "Step 3: For every referral, you will get 50% of the amount paid by your friend to buy RedCarpet SmartCard." 

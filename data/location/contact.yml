@@ -1,0 +1,22 @@
+ - heading: "CONTACT US:"
+   content: +91-11-30506200
+
+            Second Floor, Plot A, Khasra 360, Near Indian
+            Bank, Behind Centrum Mall, Sultanpur Metro
+            Station, New Delhi - 110030
+
+            Open your app and chat with us!
+
+            We are available from 10 A.M. to 10 P.M. on all
+            days. Or at support@redcarpetup.com](support@redcarpetup.com)
+
+ - heading: FAQ
+   QA:
+    -  question: Email
+       answer: support@redcarpetup.com
+    -  question: Phone
+       answer: +91-11-30506200
+    -  question: Address
+       answer:  Second Floor, Plot A, Khasra 360, Near Indian Bank, Behind Centrum Mall, Sultanpur Metro Station, New Delhi -110030
+    - question: Chat
+      answer: Open your app and chat with us!

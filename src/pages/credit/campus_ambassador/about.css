@@ -1,0 +1,468 @@
+.bannerText
+{
+  color:#B88A5C;
+}
+section{
+  padding: 60px 30px;
+}
+section#importantPeople,section#banner
+{
+  padding: 0px;
+}
+div.imageGallery
+{
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5%;
+  color: #9E97A4;
+}
+
+div.gallery
+{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+div.imageGallery h5,div.imageGallery h6
+{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+div.images{
+  display: inline-block;
+  position: relative;
+  margin: 30px 15px;
+}
+div.images img
+{
+   width: 150px;
+   height: 150px;
+   border-radius:50%;
+}
+
+div.caption{
+  margin-top: 10px;
+}
+
+div.images img.vc
+{
+  width: 200px;
+  height: 50px;
+  border-radius: 0;
+}
+
+div.vcimages
+{
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+section#team
+{
+  background-color: #f1f1f1;
+}
+div.team
+{
+  width: 100%;
+  padding:0;
+}
+div.team div.images
+{
+  margin: 20px 5px;
+  border-radius: 50%;
+  padding:10px;
+  cursor:pointer;
+}
+div.team div.images:before,div.team div.images:after
+{
+  -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 50%;
+    content: '';
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    border: 2px solid #ABA79F;
+    border-color: transparent blue;
+}
+div.images img.teamImages
+{
+  width: 150px;
+  height: 150px;
+  border-radius: 20%;
+  cursor: pointer;
+
+}
+
+div.overlay
+{
+
+  position: absolute;
+top: 5px;
+bottom: 5px;
+left: 5px;
+right: 5px;
+opacity: 0;
+z-index:-10;
+transform-style: preserve-3d;
+border-radius: 50%;
+}
+div.team div.images *,
+div.team div.images:before,
+div.team div.images:after {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.3s linear;
+  transition: all 0.3s linear;
+}
+div.images:hover div.overlay
+{
+  opacity: 1;
+  z-index:20;
+}
+.overlay_hover
+{
+  opacity: 1!important;
+  z-index:20!important;
+}
+div.team div.images:hover:after,div.team div.images:hover:before,.image_border_hover
+{
+  border-width:5px;
+}
+div.team div.images:hover:before
+{
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+div.team div.images:hover:after,.image_after_hover
+{
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+
+/*New team overlay effect*/
+
+div.textOverlay
+{
+  text-align:center;
+  height:100%;
+  width:100%;
+  border-radius: 50%;
+  top:0;
+  position:absolute;
+  background-color: rgba(0, 0, 0, 0.6);
+  transform: rotate3d(0,1,0,-180deg);
+  transform-style: preserve-3d;
+  z-index:100;
+  opacity:0;
+}
+
+div.images:hover div.textOverlay,.textOverlay_hover
+{
+  transform: rotate3d(0,1,0,0deg);
+  z-index:10;
+  opacity:1;
+}
+
+
+div.images:hover div.teamInfo
+{
+  transform: rotateX(0deg);
+  opacity:1;
+}
+div.textOverlay h4
+{
+  color:white;
+  width:70%;
+  margin:10px auto;
+  margin-top:15px;
+}
+
+
+div.textOverlay h5
+{
+  color:white;
+  cursor: pointer;
+}
+
+div.textOverlay li a
+{
+  color:white;
+  cursor: pointer;
+}
+
+div.textOverlay li a:hover
+{
+  color:#9E97A4;
+  cursor: pointer;
+}
+
+div.textOverlay ul {
+  padding: 0px;
+  font-size: 18px;
+}
+
+div.textOverlay ul li{
+  padding: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 18px;
+}
+section.team{
+  background:#E1E3E2;height:1000px
+}
+div.gallery{
+  margin-left: 7%;
+  margin-right: 5%;
+
+}
+@media(max-width:500px){
+  .home-content{
+    
+  }
+  section.intro{
+    
+  }
+  section.team{
+    background: pink;
+    height:5000px
+  }
+
+#f1_container {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  z-index: 1;
+  border-radius:10%;
+  float:right;
+  
+  
+}
+div.face.front img{
+width:150px;
+height:150px;
+border-radius:10%;
+}
+#f1_container {
+  perspective: 1000;
+}
+#f1_card {
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  transition: all 1.0s linear;
+}
+#f1_container:hover #f1_card {
+  transform: rotateY(180deg);
+  
+}
+.face {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  
+}
+.face.back {
+  float: left;
+  display: block;
+  
+  box-sizing: border-box;
+  padding: 10px;
+  color: white;
+  text-align: center;
+  background-color: black;
+  border-radius:10%;
+}
+.back {
+transform: rotateY(180deg);
+opacity: 0.8;
+}
+section.importantPeople{
+  
+}
+section.importantPeople div.impimages.gurus{
+  
+  border-bottom:2px solid #27B59C
+}
+section.importantPeople div.impimages.investors{
+  padding-left:15px;
+  padding-right:20px;
+  border-bottom:2px solid #27B59C;
+  height:960px;
+  width: 360px;
+  
+}
+div.impimages.investors div.member{
+  height:250px;
+  width: 150px;
+  padding-right: 25px;
+  box-sizing: border-box;
+  float:left
+}
+ img.guruImages{
+  height:120px;
+  width: 120px;
+}
+
+div.impimages.ventures{
+  
+  margin-right:-20px;
+  margin-left:-20px;
+  height:100px;
+  
+}
+div.impimages.ventures img.ventureImages{
+  width:200px;height:50px;
+}
+
+}
+@media(max-width: 768px)
+{
+  div.images:hover div.overlay
+  {
+    opacity: 0;
+    z-index:-10;
+  }
+  div.images:hover div.textOverlay
+  {
+    transform: rotate3d(0,1,0,0deg);
+    z-index:10;
+  }
+  section#team
+  {
+    padding: 20px 0;
+  }
+  div.images
+  {
+    margin: 30px 8px;
+  }
+
+  div.images img
+  {
+    height:120px;
+    width:120px;
+  }
+  div.imageGallery
+  {
+    width: 100%;
+  }
+  div.imageGallery h6
+  {
+    font-size:10px;
+  }
+  div.gallery
+  {
+    padding: 20px;
+    text-align:center;
+  }
+  div.gallery h2
+  {
+    text-align:center;
+  }
+  div.images img.teamImages
+  {
+    width: 100px;
+    height: 100px;
+  }
+  div.team div.images
+  {
+    margin: 30px 20px;
+  }
+  
+
+
+
+}
+
+
+
+
+#f1_container {
+  position: relative;
+  margin: 10px auto;
+  width: 150px;
+  height: 150px;
+  z-index: 1;
+  border-radius:50%;
+  float:left;
+  margin-right:20px
+}
+div.face.front img{
+width:150px;
+height:150px;
+border-radius:50%}
+#f1_container {
+  perspective: 1000;
+}
+#f1_card {
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  transition: all 1.0s linear;
+}
+#f1_container:hover #f1_card {
+  transform: rotateY(180deg);
+  
+}
+.face {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  
+}
+.face.back {
+  float: left;
+  display: block;
+  
+  box-sizing: border-box;
+  padding: 10px;
+  color: white;
+  text-align: center;
+  background-color: black;
+  border-radius:50%;
+}
+.back {
+transform: rotateY(180deg);
+opacity: 0.8;
+}
+.guruImages{
+border-radius: 50%;
+width: 160px;
+height: 160px;
+margin-left:10px
+}
+.member{
+  height:250px;
+  width: 180px;
+  float: left;
+  margin-right: 5px;
+  box-sizing: border-box;
+  
+}
+.captio{
+text-align: center
+}
+
+div.impimages.gurus{
+
+  border-bottom:2px solid #27B59C
+}
+div.impimages.investors{
+margin-left:-35px;padding-left:15px;
+width:780px;border-bottom:2px solid #27B59C;height:510px
+}
+div.impimages.ventures{
+  padding-left:130px;
+  padding-right:100px;
+  height:50px;
+}
+img.ventureImages{
+  float:left;width:200px;height:50px;margin-right:30px
+}

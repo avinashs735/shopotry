@@ -1,0 +1,69 @@
+ 
+ - bannerText: "Never worry about funds again! Just download RedCarpet. "
+
+ - heading: "HOW DOES IT WORK" 
+   works:
+    -  image: "Step1.svg"
+       caption: "DOWNLOAD THE APP"
+    -  image: "Step2.svg"
+       caption: "VERIFY PERSONAL DETAILS"
+    -  image: "Step3.svg"
+       caption: "ORDER & CONFIRM"
+    -  image: "Step4.svg"
+       caption: RECEIVE YOUR ORDER
+    -  image: Step5.svg
+       caption: PAY MONTHLY BY CASH OR ONLINE
+
+ - heading: "IS IT SAFE?"
+   safe:
+    -  head: "PRIVACY"
+       text: "We use your data to determine your “credit
+              limit” (just like Siri listens to your voice to be
+              a better assistant). Your personal and
+              financial data are encrypted - even while
+              using your phone - to ensure that it stays
+              safe when you use RedCarpet."
+    -  head: "BUYER’S GUARANTEE"
+       text: "If you have any problem with the delivery of
+              the order, we will work with our ecommerce
+              partners to fix that for you or will refund you
+              the entire cost, as long as the eligibility
+              requirements are met."
+    -  head: "24X7 PROTECTION & SUPPORT"
+       text: "Your security is our top priority. We monitor
+              every account and transaction 24X7 to
+              prevent fraud. We never sell your data outside RedCarpet."
+    -  head: "LEGAL COMPLIANCE"
+       text: "RedCarpet works with several financial
+              institutions like banks and we make sure
+              that our collection and recovery processes
+              are fully compliant. If your experience has
+              been otherwise, please reach out to us at
+              support@redcarpetup.com and we will
+              figure out what went wrong." 
+
+ - heading: "SERVICES"
+   service:
+    -  icontext: "SHOPPING"
+       icon: "shopping.svg"
+    -  icontext: "MOVIES"
+       icon: "movies.svg"
+    -  icontext: "FOOD"
+       icon: "food.svg"
+    -  icontext: "TRANSPORT"
+       icon: "transport.svg"
+    -  icontext: "EVENTS"
+       icon: "events.svg"
+    -  icontext: "RECHARGE"
+       icon: "recharge.svg"
+
+ - heading: WE SUPPORT THE FOLLOWING PARTNERS AND HUNDREDS MORE!                            
+   white:
+    -  logo: "flipkart.svg"
+       logotext: "FLIPKART"
+    -  logo: "myntra.svg"
+       logotext: "MYNTRA"
+    -  logo: "paytm.svg"
+       logotext: "PAYTM"
+    -  logo: "amazon.svg"
+       logotext: "AMAZON"    

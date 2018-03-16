@@ -1,0 +1,65 @@
+---
+name: jobs
+
+source:
+    
+ para: "[At RedCarpet](/) we’re made of brilliant geeks, confident professionals, fearless innovators and boundless foodies. Our team is made up of smart, passionate, and all-around awesome people hailing from a wide variety of backgrounds. We're beginning to grow our company in the heart of New Delhi (and soon all over India)... and trying to establish our culture of innovation across the Indian subcontinent" 
+ 
+ info: |
+    "The founders bring in almost 2 decades of combined experience in building startups, writing code, deep analytics and CXO leadership at top-3 ecommerce players in India and abroad. Our investors are some of the best in the world.
+
+    [A typical day at RedCarpet](/) You will come into office fresh in the morning and grab a cup of coffee. We discourage coming into office late, and working till midnight. We only work late during crunch releases. We consider it a failure if we have to work weekends... but we do not complain if we have to get that critical release out. We realize that Google and Tesla was never built by 9 to 5 ers. We never check Facebook or Instagram in office - we would rather put in solid hours of work and go for a Crossfit session in the evening, than waste time and work till midnight. 
+    
+    We encourage you to put your head down and [take a nap](http://dealbook.nytimes.com/2014/06/27/sleep-as-a-competitive-advantage/?_php=true&_type=blogs&_r=0) when you want. Snoring is discouraged. 
+
+    **You will always hire and work with people smarter than yourself.** 
+
+    On the technology front, you’ll be working with our data science stack, our mobile apps as well as our web services. You will be unafraid to rewrite the entire python code because cProfile showed list comprehension is slowing down a batch operation on a machine with 256 mb RAM. You will inspect bytecode to realize that "BUILD_LIST" is being called way too many times. 
+
+    Or you may be part of our customer facing operations and will bend over backwards to improve the customer service experience or building operational efficiencies in collection and recovery. You will find new ways to help your customers access honest credit lines and help plan their repayments.:w
+
+    We're looking for people who are unafraid to compete with big name universities and fancy titles... and are excited to build something entirely new. We want people who are fearless and hungry.
+
+    We **NEVER** hire based on college degrees or where you went to college. For our technology positions, your github or kaggle profile outranks your college degrees. In fact, we have proudly hired and work with people who dont have college degrees. For non-technology positions, you have to be extremely competent in your area of expertise and will need to be extremely hands on.
+
+    We do have a few top pre-reqs in order to be considered as a **Com<font color="red">red</font>e**:
+
+    - Ownership & Taking initiative
+    - Empathy and Making Friends: Passion for
+      food, not drinking to get drunk and an interesting taste in music
+    - Courage
+
+    At RedCarpet, we expect everyone to be collaborative, polite, extremely motivated and smart. We continually push ourselves and each other to be better. Above all, we passionately believe that you should be inspired by and enjoy being around the people you work with.
+    Our investors include Twitch.tv founder (and YCombinator superstar) Justin Kan, Y Combinator, Google Launchpad and others."
+
+ perks: 
+  
+  left: |
+     
+      - Competitive salary
+      - Early-stage equity
+      - Pizza, coffee and beer ...
+      
+  right: |
+        - Contribution matching
+        - Strict culture of meritocracy
+        - Open source contributions
+        
+ values: 
+    - number: 1
+      text: Relentless - like a [Honeybadger](https://www.youtube.com/watch?v=M0wi7Ugct1w)
+      color: ladder-green
+      
+    - number: 2
+      text: Trust, low-ego  - Learn to ["Disagree and Commit"](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm)
+      color: bozo-blue
+      
+    - number: 3
+      text: Move fast and break things - no decision is a bad decision
+      color: merit-red
+      
+    - number: 4
+      text: Everyone is hands on. No exceptions. Period.
+      color: merit-red
+      
+ 

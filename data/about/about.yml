@@ -1,0 +1,186 @@
+- bannerText: "Our mission: to make credit available to the next billion users."
+
+- heading: "WE ARE THE CRAZY ONES WHO BELIEVE IN YOU!"
+  text:  RedCarpet lends to customers in India to finance their online purchases - ecommerce, travel,
+          etc. In India, credit and finance companies are able to service less than 3% of the customer
+          base because there is no data, no widespread credit bureaus to profile and score customers.
+          RedCarpet has access to much more data, including data on your mobile phone. We use this
+          data to service customers who never had any access to credit before.
+
+          90% of ecommerce in India is cash on delivery. That is almost 4 billion USD of credit floating
+          around - but not managed and packaged as credit and risk. What it means is that we are
+          building structure around something that already happens at a large scale in India... just not
+          built right.
+
+          By building better credit & lending infrastructure, we want to enable more people to access
+          credit. Our job starts BEFORE you start using a payment gateway or a wallet - we believe the
+          basic problem in the trillion dollar Indian economy is access to liquidity. Our aim is to expand
+          the credit economy — simply replacing the legacy credit providers/banks would probably be a
+          great business success, but it's not all that interesting as a goal.
+
+- heading: TEAM
+  teams:
+   -  image: abhay.jpg
+      name: Abhay tamaria
+      job: Vice President
+      link:
+      twit:
+      git:
+   -  image: kartik.jpg
+      name: Kartik Venkatraman
+      job: director
+      link:
+      twit:
+      git:
+
+   -  image: sandeep.jpg
+      name: Sandeep Srinivasa
+      job: director
+      link: https://www.linkedin.com/in/sandeepss
+      twit: https://twitter.com/sandgorgon1
+      git: https://github.com/sandys
+   -  image: ananth.jpg
+      name: Ananth Venkatesh
+      job: Engineering
+      link: https://www.linkedin.com/in/ananth-venkatesh-7223247a
+      twit:
+      git:
+   -  image: balram.jpg
+      name: Balram
+      job: Engineering
+      link: https://www.linkedin.com/in/balram-pandey-2606a854
+      twit:
+      git: https://github.com/balrampandey19
+   -  image: deepak.jpg
+      name: Deepak MP
+      job: Analytics & recon
+      
+   -  image: lovejeet.jpg
+      name: Lovejeet Singh
+      job: Engineering
+      
+   -  image: rajhans.jpg
+      name: Rajhans Jadhao
+      job: Engineering
+      link: https://www.linkedin.com/in/balram-pandey-2606a854
+      twit:
+      git:
+   -  image: raghav.jpg
+      name: Raghav Sharma
+      job: Engineering
+      
+   -  image: swagat.jpg
+      name: Swagat Sharma
+      job: Risk & Policy
+      
+   -  image: jatin.jpg
+      name: Jatin Ginotra
+      job: Operations
+      
+   -  image: shivam.jpg
+      name: Shivam Pathak
+      job: Operations
+      
+   -  image: ravi.jpg
+      name: Ravi
+      job: Operations
+      
+   -  image: radhe.jpg
+      name: Radheshyam Chaudhary
+      job: Operations
+      
+   -  image: vipul.jpg
+      name: Vipul Roy
+      job: Operations
+      
+   -  image: balram_singh.jpg
+      name: Balram Singh
+      job: Collection
+      
+   -  image: ankit.jpg
+      name: Ankit Aggarwal
+      job: Operations
+      
+   -  image: sameer.jpg
+      name: Sameer Verma
+      job: Operations
+      
+   -  image: yasir.jpg
+      name: Md Yasir
+      job: Marketing
+      
+   -  image: rahul.jpg
+      name: Rahul Kumar Garg
+      job: Operations
+      
+   -  image: madhu.jpg
+      name: Madhu
+      job: Operations
+      
+   -  image: himanshu.jpg
+      name: Himanshu Gupta
+      job: Accounts
+      
+   -  image: saif.jpg
+      name: Saif Aslam
+      job: Marketing
+      
+   -  image: chandan.jpg
+      name: Chandan kumar
+      job: Operations
+      
+   -  image: shailesh.jpg
+      name: Shailesh Diwakar
+      job: Operations
+      
+   -  image: deeksha.jpg
+      name: Diksha Jakhmola
+      job: Operations
+      
+   -  image: rashmi.jpg
+      name: Rashmi Chaudhary
+      job: Operations
+      
+   -  image: MB.jpg
+      name: MB Singh
+      job: Operations
+      
+
+- heading: RESIDENT GURU 
+  gurus:
+   -  image: naftali.jpg
+      name: Naftail
+      job: Data Science
+
+- heading: Investors
+  member:
+   -  image: sanjay-suri.jpg
+      name: Sanjay Suri
+      job: FOUNDER CEO TECHNOCRAT
+   -  image: justin-kan.jpg
+      name: Justin kan
+      job: TWITCH.TV YCOMBINATOR
+   -  image: prafulla-krishna.jpg
+      name: Prafulla Krishna
+      job: CEO COSEER
+   -  image: aditi-sreenivasan.jpg
+      name: Aditi Sreenivasan
+      job: INVESTOR
+   -  image: krishnaprem-bhatia.jpg
+      name: Krishnaprem Bhatia
+      job: ORACLE
+   -  image: justin-sullivan.jpg
+      name: JUSTIN SULLIVAN
+      job: SHINRYOKU
+   -  image: amar-umap.jpg
+      name: Amar Umap
+      job: INVESTOR
+   -  image: balaji-bhashyam.jpg
+      name: Balaji Bhashyam
+      job: INVESTOR
+- heading: Venture Capital
+  member:
+   -  image: googlelaunch.svg
+      name: googlelaunch
+   -  image: ycomb.svg
+      name: ycombinator

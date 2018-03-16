@@ -1,0 +1,71 @@
+intro:
+  heading: YOU WILL ALWAYS HIRE AND WORK WITH PEOPLE SMARTER THAN YOURSELF
+  text: |
+          At RedCarpet we’re made of brilliant geeks, confident professionals, fearless innovators and boundless foodies. Our team is made up of smart, passionate, and all-around awesome people hailing from a wide variety of backgrounds. We’re beginning to grow our company in the heart of New Delhi (and soon all over India)… and trying to establish our culture of innovation across the Indian subcontinent. The founders bring in almost 2 decades of combined experience in building startups, writing code, deep analytics and CXO leadership at top-3 ecommerce players in India and abroad. Our investors are some of the best in the world.
+sections:
+  - heading: A typical day at work.
+    image: /comsite/assets/images/jobs/room.jpg
+    text: You will come into office fresh in the morning and grab a cup of coffee. We discourage coming into office late, and working till midnight. We only work late during crunch releases. We consider it a failure if we have to work weekends… but we do not complain if we have to get that critical release out. We realize that Google and Tesla was never built by 9 to 5 ers. We never check Facebook or Instagram in office - we would rather put in solid hours of work and go for a Crossfit session in the evening, than waste time and work till midnight. We encourage you to put your head down and [take a nap when you want](https://www.nytimes.com/2017/06/23/smarter-living/take-naps-at-work-apologize-to-no-one.html?mcubz=0). Snoring is discouraged.
+
+  - heading: Work with the best.
+    image: /comsite/assets/images/jobs/work_with_best.JPG
+    text: |
+            You will always hire and work with people smarter than yourself. We’re looking for people who are unafraid to compete with big name universities and fancy titles… and are excited to build something entirely new. We want people who are **fearless and hungry**.
+    
+            On the technology front, you’ll be working with our data science stack, our mobile apps as well as our web services. You will be unafraid to rewrite the entire python code because cProfile showed list comprehension is slowing down a batch operation on a machine with 256 mb RAM. You will inspect bytecode to realize that “BUILD_LIST” is being called way too many times.
+
+            Or you may be part of our customer facing operations and will bend over backwards to improve the customer service experience or building operational efficiencies in collection and recovery. You will find new ways to help your customers access honest credit lines and help plan their repayments. If you come on board as a marketing wizard we would expect you to come up with strategies that help the brand dazzle in the market.
+
+  - heading: What we look for?
+    image: /comsite/assets/images/jobs/passion_for_work.JPG
+    text: |
+            We **NEVER** hire based on college degrees or where you went to college. For our technology positions, your github or kaggle profile outranks your college degrees. In fact, we have proudly hired and work with people who dont have college degrees. For non-technology positions, you have to be extremely competent in your area of expertise and will need to be extremely hands on.<br>We do have a few top pre-reqs in order to be considered as a **Com<font color="red">RED</font>e**:
+
+              - Ownership & Taking initiative
+              - Empathy and Making Friends: Passion for food and an interesting taste in music
+              - Courage : Are you afraid to learn a few framework ?
+
+            At RedCarpet, we expect everyone to be collaborative, polite, extremely motivated and smart. We continually push ourselves and each other to be better. Above all, we passionately believe that you should be inspired by and enjoy being around the people you work with. 
+            
+            Our investors include Twitch.tv founder (and YCombinator superstar) Justin Kan, Y Combinator, Google Launchpad and others.
+  - heading: Values that we live by.
+    image: https://www.instagram.com/p/BT_Gr2EAKQo/media/?size=l
+    text: |
+              There are certain beliefs that are the core foundation of a person, these are the rules that you live by. This is what we believe in at RedCarpet. This is our *"culture-fit"* 
+
+              - Relentless - like a [Honeybadger](https://www.youtube.com/watch?v=M0wi7Ugct1w)
+              - Trust, low-ego  - Learn to ["Disagree and Commit"](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm)
+              - Move fast and break things
+              - Everyone is hands on. No exceptions.
+
+  - heading: Perks
+    image: https://www.instagram.com/p/BT3G9IDA2Dq/media/?size=l
+    text: |
+        There are some things we dont negotiate on.
+
+        - Competitive salary
+        - Early-stage equity
+        - Pizza, coffee and beer
+        - Contribution matching
+        - Strict culture of meritocracy
+        - Open source contributions
+
+value:
+  heading: REDCARPET VALUES
+  text:
+    - Relentless - like a [Honeybadger](https://www.youtube.com/watch?v=M0wi7Ugct1w)
+    - Trust, low-ego  - Learn to ["Disagree and Commit"](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm)
+    - Move fast and break things
+    - Everyone is hands on. No exceptions.
+
+perks:
+  heading: PERKS
+  text:
+    - Competitive salary
+    - Early-stage equity
+    - Pizza, coffee and beer
+    - Strict culture of meritocracy
+    - Open source contributions
+
+jobListing:
+  heading: Current Job Openings At RedCarpet

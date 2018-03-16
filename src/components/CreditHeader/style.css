@@ -1,0 +1,10 @@
+
+.navbar {
+    background: whitesmoke;
+    margin-bottom: 0px !important;
+    min-height: 100px !important;
+    position: relative !important;
+}
+.myNavbar{
+    float: right;
+}

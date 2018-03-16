@@ -1,0 +1,120 @@
+  name: bikes
+  "A96ff126f": <a href="/credit/campus-ambassador">Careers</a>
+  "A44097a8f": <a href="/credit/creditpay-card">Cards</a>
+  "Aef2e8df4": <a href="https://goo.gl/qwgz5z" style="color:white"><img src="/referral/img/play.png" class="play"></a>
+  "A2b049638": <a href="https://twitter.com/RedCarpetUp" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
+  "A7669e5fe": <a href="https://www.facebook.com/redcarpetup" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+  "Abc197043": <a href="/about/">About Us</a>
+  "Aaee07457": <a href="/location/">Contact Us</a>
+  "A121c946a": <a href="#page-top"></a>
+  "A91da2330": "Share Credit, Make Profit!"
+  "A57ff5d81": "Do more than just purchasing"
+  "Ac5d8e982": <span class="sr-only">Toggle navigation</span> <i class="fa fa-bars"></i>
+  "A8f7f4c1c": "It’s your turn to reap the benefits of your continued loyalty to RedCarpet. Till now you bought stuff, and now help your friends buy what they want. In turn you make profits too!"
+  "A9639e32c": "Apply"
+  "A8dfb117f": "Around the Web"
+  "Ad8156ae7": "Become Eligible"
+  "A28ed8648": "How it works?"
+  "Ac2694e57": "Pay Back Period :  "
+  "A207f16d0": "Have to pay <b>College Mess fee</b> <br> Just tell us and we’ll pay for you"
+  "A9c89af88": "Loan Amount : &#8377;  "
+  "A2b24559e": Once you have made purchases worth ₹10,000 or more, you become eligible to apply for credit sharing :)
+  "Ace5bf551": "Location"
+  "A7c0ac50e": "redcarpet"
+  "A7f5e060a": "Credit Sharing | RedCarpet"
+  "Ac55003a2": "We are all about empowering you. By building a better credit and lending infrastructure we want to enable more people to access credit. If more people have access to credit then, they can buy what they want today, without having to wait for the cash to flow in immediately and pay us back later. Our company is built on a foundation of believing in people, believing in their integrity and building technology around that belief. "
+  "Acd7dacee": "WELCOME TO THE NEXT LEVEL"
+  "Adb8ff484": "Second Floor, Plot A, Khasra 360, <br> Near Indian Bank, Behind Centrum Mall,<br> Sultanpur Metro Station -110030"
+  "Af3a29486": "Steps"
+  "A92b87e5c": "T&C"
+  "A6c719555": "Toggle navigation"
+  "A44d2fd49": "Select your payment option"
+  "Ad7a503fa": "Our mission - to expand credit access to the next billion users with the help of mobile tech and utilising the power of AI. Today we are operational only in Delhi. But soon we’ll be everywhere.  "
+  "A70debe80": "Share Credit, Make Profit"
+  "A798u9899" : " &nbsp; Months"
+  "A8ffh9089" : "To be eligible you must be at least 18+ years of age and a regular college student studying in Delhi NCR region."
+  "A8hfef90" : "Final year students, pursuing both graduation or post-graduation, should have at least 6 months of the academic year left to be eligible to use RedCarpet."
+  "A8984577" : "Sign up"
+  "A7876098" : "ORDER NOW"
+  "Afe98930" : "Terms & Conditions"
+  "A7876096" : "<li>If you are already a RedCarpet user, just fill the form and we will get back to you after approving your request!</li>"
+  "A91da2430" : "<li>If you are new to RedCarpet, then all you need to do is </li>"
+  "heading12" : Become Eligible
+  "heading13" : Once you have made purchases worth ₹10,000 or more, you become eligible to apply for credit sharing :)
+  "heading14" : Sign up
+  "heading15" : Fill up the form below and submit it. Our executives will get in touch with you soon after that. Which should happen within 24 hours. They will call you to confirm your details and approve you for credit sharing.
+  "heading16" : Get Sharable Credit
+  "heading17" : Once approved you will be allotted a sum of ₹100,000, which is separate from your personal credit limit.
+  "heading18" : Recommend and distribute
+  "heading19" : This credit is for you to share among your recommended friends who need to purchase a product or service of a higher budget.
+  "heading20" : Earn your share!
+  "heading21" : When your friends payback their EMIs you get a 50% share of the revenue You can use this credit to make purchases online from your RedCarpet account.
+  "Ac53151ff": "LEGAL"
+  "A1fe917b0": "FAQ"
+  links:
+    - title: About Us
+      url: /about/
+
+    - title: Cards
+      url: /credit/creditpay-card
+
+    - title: Careers
+      url: /credit/campus-ambassador
+
+    - title: Contact Us
+      url: /location/
+
+    - title: <img src="/referral/img/play.png" class="play">
+      url: https://goo.gl/qwgz5z
+
+  bannerHeading: WELCOME TO THE NEXT LEVEL
+  bannerSubHeading: SHARE CREDIT, MAKE PROFIT!
+
+  section:
+    heading: DO MORE THAN JUST PURCHASING
+    content: It’s your turn to reap the benefits of your continued loyalty to RedCarpet. Till now you bought stuff, and now help your friends buy what they want. In turn you make profits too!
+    subHeading: HOW IT WORKS?
+    list:
+      - title: BECOME ELIGIBLE
+        text: Once you have made purchases worth ₹10,000 or more, you become eligible to apply for credit sharing :)
+
+      - title: SIGN UP
+        text: Fill up the form below and submit it. Our executives will get in touch with you soon after that. Which should happen within 24 hours. They will call you to confirm your details and approve you for credit sharing.
+
+      - title: GET SHARABLE CREDIT
+        text: Once approved you will be allotted a sum of ₹100,000, which is separate from your personal credit limit.
+
+      - title: RECOMMEND AND DISTRIBUTE
+        text: This credit is for you to share among your recommended friends who need to purchase a product or service of a higher budget.
+
+      - title: EARN YOUR SHARE!
+        text: When your friends payback their EMIs you get a 50% share of the revenue You can use this credit to make purchases online from your RedCarpet account.
+
+  formHeading: ORDER NOW
+
+  aboutSection:
+    heading: ABOUT
+    leftPara: We are all about empowering you. By building a better credit and lending infrastructure we want to enable more people to access credit. If more people have access to credit then, they can buy what they want today, without having to wait for the cash to flow in immediately and pay us back later. Our company is built on a foundation of believing in people, believing in their integrity and building technology around that belief.
+    rightPara: Our mission - to expand credit access to the next billion users with the help of mobile tech and utilising the power of AI. Today we are operational only in Delhi. But soon we’ll be everywhere.
+
+  location:
+    title: LOCATION
+    text: "Second Floor, Plot A, Khasra 360,<br>
+          Near Indian Bank, Behind Centrum Mall,<br>
+          Sultanpur Metro Station -110030"
+  socialIcon:
+    title: AROUND THE WEB
+    content:
+      - icon: facebook
+        url: https://www.facebook.com/redcarpetup
+      - icon: twitter
+        url: https://twitter.com/RedCarpetUp
+      - icon: instagram
+        url: https://instagram.com/RedCarpetUp
+  footer:
+    title: Copyright &copy; RedCarpet Tech Pvt Ltd.
+    list:
+      - title: faq
+        link: /faq/
+      - title: legal
+        link: /legal/      

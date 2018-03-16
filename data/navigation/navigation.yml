@@ -1,0 +1,21 @@
+- header: 
+  navigate:
+   -  navbar: "About"
+   -  navbar: "Campus-Leader"
+   -  navbar: "Contact"
+   -  navbar: "FAQs"
+   -  navbar: "Jobs"
+   -  navbar: "Shop"
+   -  navbar: "Smart-Card"
+   -  navbar: "The RC Blog"
+   -  navbar: "Videos" 
+
+- footer:
+  navigate:
+   -  siteNavi: "ABOUT"
+   -  siteNavi: "CAMPUS LEADERS"
+   -  siteNavi: "FAQs"
+   -  siteNavi: "JOBS"
+   -  siteNavi: "LEGAL"
+   -  siteNavi: "CONTACT"
+   -  siteNavi: "BLOG"

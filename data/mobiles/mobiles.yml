@@ -1,0 +1,159 @@
+  name: deals
+  A74247576: "Flat 15% off"
+  A5dbd0c04: "&copy; RedCarpet Tech Pvt Ltd. &nbsp;"
+  A747ab748: "Avail exciting offers on the hottest mobiles "
+  A3a02920b: "Exclusively for RedCarpet users"
+  Abd88466b: "20% off on your First Order on Zomato + upto 20% off on Subway"
+  Ac0b122f8: "25% off on orders above ₹150"
+  A6f293ae6: <a href="/about" target="_blank">About us</a>
+  A105f3767: <a href="/deals#deals" target="_blank">Deals</a>
+  A707a1755: <a href="/credit/campus-ambassador">Careers</a>
+  A636fdc2f: <a href="/credit/creditpay-card">Cards</a>
+  Abbf9f0ee: <a href="/location">Contact us</a>
+  A23d42032: <a href="https://play.google.com/store/apps/details?id=com.redcarpetup.rewardpay&hl=en"><img src="/deals/images/play.png" class="play"></a>
+  Aedd88caf: <a href="/deals/#deals">Deals</a>
+  A1a3bdff7: <i class="fa fa-facebook"></i> &nbsp;
+  A90e084d0: <i class="fa fa-twitter"></i> &nbsp;
+  Aa8cee1d6: <img src="../assets/images/logo.png" class="loogo">
+  A0088d42d: <img src="/deals/images/play.png" class="glay">
+  Af4c121f5: <img src="/deals/images/play.png" class="play">
+  #A8f7f4c1c: "About"
+  #A53466899: "iPhone 6S 16 GB"
+  #Ae654f7a8: "Benefits"
+  #Adf3a7f53: "<strike>₹46000</strike>&nbsp; ₹41000"
+  #A7a7fe986: "Get flat ₹5000 off!"
+  #A71483d77: "EMI starts from ₹4100/month"
+  #A0858ad10: "Get a tempered screen guard and cover for free!"
+  #Ada9584bf: "Can be used once per user"
+  #A4c4ddfa6: "iPhone 6S"
+  A928dd0ba: "chaipoint.com"
+  Ad6ab0ea8: "Deals"
+  A9abc0922: "Mobiles | RedCarpet"
+  #Aef456248: "Get flat ₹680 off!"
+  #A76516bd6: "EMI Starts from ₹1292/month"
+  #A7500b334: "iPhone 6S 32 GB"
+  #A03ed3377: "<strike>₹31000</strike>&nbsp;₹28500"
+  #Af0df100a: "Faasos"
+  #A115aad11: "faasos.com"
+  A1fe917b0: "FAQ"
+  A98f770b0: "Features"
+  #Abd5355b2: "Oppo A57"
+  #Acedda008: "<strike>₹14990</strike>&nbsp; ₹13790"
+  #A6e398471: "Get flat ₹1200 off!"
+  #A687378e8: "EMI starts from ₹1379/month"
+  #Aab9617fa: "Flat ₹50 off on orders of ₹200"
+  #A7cc0d32b: "Samsung J5 Prime"
+  #Ade6c90b5: "<strike>₹13600</strike> &nbsp; ₹12920"
+  #A5346682d: "Get flat ₹2500 off!"
+  #A9c86c94f: "iPhone 5S 16 GB"
+  #Aa0b9afe2: "EMI starts from ₹2850/month"
+  #A95b52263: "<strike>₹21000</strike> &nbsp; ₹18500"
+  #Ae4efcae8: "Get flat ₹2500 off!"
+  #A9fc0a065: "EMI starts from ₹1850/month"
+  #Ac56ddd54: "Oppo F1S"
+  #A167d9b9e: "<strike>₹19000</strike> &nbsp;₹17300"
+  #A968a847f: "Get flat ₹1700 off!"
+  #A152067ce: "EMI starts from ₹1730/month"
+  #A49a65fea: "vivo v5"
+  #Aed2a0460: "<strike> ₹17990</strike> &nbsp; ₹16390"
+  #Ad69c07a4: "Get flat ₹1600 off!"
+  #Ae867bde8: "EMI Starts from ₹1639/month"
+  #Addd701c2: "vivo Y55"
+  #Afdc62dea: "<strike>₹12500</strike> &nbsp; ₹11375"
+  #A3f6b21f0: "Get flat ₹1125 off!"
+  #A432e93ae: "EMI starts from ₹1250/month"
+  #A12c45162: "pizzahut.co.in"
+  #A95d99db0: "Sweet Khana"
+  #Af26f3af1: "sweetkhana.com"
+  A5289f1a9: "Testimonial"
+  A6c719555: "Toggle navigation"
+  A5e6bf82c: Use code on <a href="http://kfc.co.in" target="_blank">kfc.co.in</a>
+  Af78bd70b: Use code on <a href="http://sweetkhana.com" target="_blank">sweetkhana.com</a>
+  A799947b0: Use code on <a target="_blank" href="http://chaipoint.com">chaipoint.com</a>
+  A1d2e5c80: Use code on <a target="_blank" href="http://faasos.com">faasos.com</a>
+  A5be429bd: Use code on <a target="_blank" href="http://foodpanda.in">foodpanda.in</a>
+  Aed860f32: Use code on <a target="_blank" href="http://online.pizzahut.co.in">pizzahut.co.in</a>
+  A89c3e313: Use code on <a target="_blank" href="http://pizzaonline.dominos.co.in">dominos.co.in</a>
+  A3e12bff6: Use code on <a target="_blank" href="http://zomato.com">zomato.com</a>
+  A06215bdc: Use code on <a target="_blank" href="https://online.dunkinindia.com/">dunkinindia.com</a>
+
+  links:
+    - title: About Us
+      url: /about/
+
+    - title: Cards
+      url: /credit/creditpay-card
+
+    - title: Careers
+      url: /credit/campus-ambassador
+
+    - title: Contact Us
+      url: /location/
+
+  phone:
+   - row:
+     - title: iPhone 6S 16 GB
+       imageUrl: /mobiles/images/mobiles/6s16.png
+       price: <strike>₹46000</strike>&nbsp; ₹41000
+       features:
+         - Get flat ₹5000 off!
+         - EMI Starts from ₹4100/month
+       free: Get a tempered screen guard and cover for free
+
+     - title: iPhone 6S 32 GB
+       imageUrl: /mobiles/images/mobiles/6s.jpg
+       price: <strike>₹31000</strike>&nbsp;₹28500
+       features:
+         - Get flat ₹2500 off!
+         - EMI starts from ₹2850/month
+       free: Get a tempered screen guard and cover for free
+
+     - title: iPhone 5S 16 GB
+       imageUrl: /mobiles/images/mobiles/5s.jpg
+       price: <strike>₹21000</strike> &nbsp; ₹18500
+       features:
+         - Get flat ₹2500 off!
+         - EMI starts from ₹1850/month
+       free: Get a tempered screen guard and cover for free
+
+   - row:
+     - title: Oppo F1S
+       imageUrl: /mobiles/images/mobiles/oppo-f1s.jpg
+       price: <strike>₹19000</strike> &nbsp;₹17300
+       features:
+          - Get flat ₹1700 off!
+          - EMI starts from ₹1730/month
+       free: Get a tempered screen guard and cover for free
+
+     - title: Oppo A57
+       imageUrl: /mobiles/images/mobiles/oppo-a57.jpg
+       price: <strike>₹14990</strike>&nbsp; ₹13790
+       features:
+         - Get flat ₹1200 off!
+         - EMI starts from ₹1379/month
+       free: Get a tempered screen guard and cover for free
+
+     - title: vivo v5
+       imageUrl: /mobiles/images/mobiles/vivo-v5.jpg
+       price: <strike> ₹17990</strike> &nbsp; ₹16390
+       features:
+         - Get flat ₹1600 off!
+         - EMI Starts from ₹1639/month
+       free: Get a tempered screen guard and cover for free
+
+   - row:
+     - title: vivo Y55
+       imageUrl: /mobiles/images/mobiles/y55.jpg
+       price: <strike>₹12500</strike> &nbsp; ₹11375
+       features:
+          - Get flat ₹1125 off!
+          - EMI starts from ₹1250/month
+       free: Get a tempered screen guard and cover for free
+
+     - title: Samsung J5 Prime
+       imageUrl: /mobiles/images/mobiles/j5.jpg
+       price: <strike>₹13600</strike> &nbsp; ₹12920
+       features:
+        - Get flat ₹680 off!
+        - EMI Starts from ₹1292/month
+       free: Get a tempered screen guard and cover for free

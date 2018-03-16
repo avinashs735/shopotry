@@ -1,0 +1,86 @@
+bannerText:  Never worry about funds again! Just download RedCarpet. 
+work:
+  heading: HOW DOES IT WORK
+  steps:
+    - image: Step1.svg
+      caption: DOWNLOAD THE APP
+    - image: Step2.svg
+      caption: VERIFY PERSONAL DETAILS
+    - image: Step3.svg
+      caption: ORDER & CONFIRM
+    - image: Step4.svg
+      caption: RECEIVE YOUR ORDER
+    - image: Step5.svg
+      caption: PAY MONTHLY BY CASH OR ONLINE
+  safe:
+    heading: IS IT SAFE?
+    list:
+      - row:
+        - heading: PRIVACY
+          text: We use your data to determine your “credit
+              limit” (just like Siri listens to your voice to be
+              a better assistant). Your personal and
+              financial data are encrypted - even while
+              using your phone - to ensure that it stays
+              safe when you use RedCarpet.
+
+        - heading:  BUYER’S GUARANTEE
+          text: If you have any problem with the delivery of
+              the order, we will work with our ecommerce
+              partners to fix that for you or will refund you
+              the entire cost, as long as the eligibility
+              requirements are met.
+
+      - row:
+        - heading: 24X7 PROTECTION & SUPPORT
+          text: Your security is our top priority. We monitor
+              every account and transaction 24X7 to
+              prevent fraud. We never sell your data outside RedCarpet.
+
+        - heading: LEGAL COMPLIANCE
+          text: RedCarpet works with several financial
+              institutions like banks and we make sure
+              that our collection and recovery processes
+              are fully compliant. If your experience has
+              been otherwise, please reach out to us at
+              support@redcarpetup.com and we will
+              figure out what went wrong.
+services:
+  heading: SERVICES
+  list:
+    - caption: SHOPPING
+      image: shopping.svg
+    - caption: MOVIES
+      image: movies.svg
+    - caption: FOOD
+      image: food.svg
+    - caption: TRANSPORT
+      image: transport.svg
+    - caption: EVENTS
+      image: events.svg
+    - caption: RECHARGE
+      image: recharge.svg
+
+whiteSection:
+  heading: WE SUPPORT THE FOLLOWING PARTNERS AND HUNDREDS MORE!
+  list:
+    - caption: FLIPKART
+      image:  flipkart.svg
+    - caption: MYNTRA
+      image: myntra.svg
+    - caption: PAYTM
+      image: paytm.svg
+    - caption: AMAZON
+      image: amazon.svg
+
+videoBar:
+  - link: https://www.youtube.com/embed/zFguqx8Yc5w
+    image: testimonial1.jpg
+  - link: https://www.youtube.com/embed/o36o-9B8BAk
+    image: testimonial2.jpg
+  - link: https://www.youtube.com/embed/HPA_QQ1Ojlk
+    image: testimonial3.jpg
+  - link: https://www.youtube.com/embed/EFvxbpQwErY
+    image: testimonial4.jpg
+  - link: https://www.youtube.com/embed/ChlFcrBOdwo
+    image: testimonial5.jpg
